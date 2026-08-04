@@ -1,1 +1,43 @@
 
+name: TOEIC Daily Bot
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # mỗi 15 phút (giờ UTC, script tự quy đổi sang giờ VN)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: toeic-daily-bot
+  cancel-in-progress: false
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cài dependencies
+        run: pip install -r requirements.txt
+
+      - name: Chạy bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python toeic_bot.py --state state.json --vocab-bank vocab_bank.json --quiz-bank quiz_bank.json
+
+      - name: Lưu lại state.json và kho dữ liệu (nếu có thay đổi)
+        run: |
+          git config user.name "toeic-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json vocab_bank.json quiz_bank.json
+          git diff --quiet --cached || git commit -m "chore: cập nhật state/dữ liệu [skip ci]"
+          git push
