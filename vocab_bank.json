@@ -1,0 +1,302 @@
+[
+  {
+    "word": "agenda",
+    "meaning": "chương trình nghị sự",
+    "example": "Please review the agenda before tomorrow's meeting."
+  },
+  {
+    "word": "correspondence",
+    "meaning": "thư từ, thư tín",
+    "example": "All correspondence with clients must be archived."
+  },
+  {
+    "word": "memorandum",
+    "meaning": "bản ghi nhớ nội bộ",
+    "example": "The manager sent a memorandum about the new dress code."
+  },
+  {
+    "word": "stationery",
+    "meaning": "văn phòng phẩm",
+    "example": "We need to order more stationery for the office."
+  },
+  {
+    "word": "filing",
+    "meaning": "việc lưu trữ hồ sơ",
+    "example": "The filing system was reorganized last month."
+  },
+  {
+    "word": "itinerary",
+    "meaning": "lịch trình (chuyến đi)",
+    "example": "Her itinerary includes three cities in five days."
+  },
+  {
+    "word": "postpone",
+    "meaning": "hoãn lại",
+    "example": "The board decided to postpone the annual meeting."
+  },
+  {
+    "word": "attendee",
+    "meaning": "người tham dự",
+    "example": "Each attendee received a printed handout."
+  },
+  {
+    "word": "consensus",
+    "meaning": "sự đồng thuận",
+    "example": "The team reached a consensus on the new schedule."
+  },
+  {
+    "word": "minutes",
+    "meaning": "biên bản cuộc họp",
+    "example": "Could you take the minutes of today's meeting?"
+  },
+  {
+    "word": "brief",
+    "meaning": "thông báo/tóm tắt ngắn gọn",
+    "example": "The manager will brief the staff at 9 a.m."
+  },
+  {
+    "word": "facilitate",
+    "meaning": "điều phối, tạo điều kiện thuận lợi",
+    "example": "She was asked to facilitate the discussion."
+  },
+  {
+    "word": "clause",
+    "meaning": "điều khoản (hợp đồng)",
+    "example": "This clause outlines the termination conditions."
+  },
+  {
+    "word": "liability",
+    "meaning": "trách nhiệm pháp lý",
+    "example": "The company denied any liability for the damage."
+  },
+  {
+    "word": "breach",
+    "meaning": "sự vi phạm (hợp đồng, quy định)",
+    "example": "Late delivery is considered a breach of contract."
+  },
+  {
+    "word": "amend",
+    "meaning": "sửa đổi, tu chỉnh",
+    "example": "We need to amend the agreement before signing."
+  },
+  {
+    "word": "binding",
+    "meaning": "có tính ràng buộc",
+    "example": "This agreement is legally binding on both parties."
+  },
+  {
+    "word": "waiver",
+    "meaning": "sự miễn trừ (quyền lợi/nghĩa vụ)",
+    "example": "He signed a waiver before joining the tour."
+  },
+  {
+    "word": "layover",
+    "meaning": "thời gian nối chuyến",
+    "example": "We have a two-hour layover in Singapore."
+  },
+  {
+    "word": "reimbursement",
+    "meaning": "sự hoàn trả (chi phí)",
+    "example": "Submit your receipts for reimbursement by Friday."
+  },
+  {
+    "word": "boarding pass",
+    "meaning": "thẻ lên máy bay",
+    "example": "Please have your boarding pass ready at the gate."
+  },
+  {
+    "word": "delay",
+    "meaning": "sự trì hoãn",
+    "example": "The flight delay caused him to miss the connection."
+  },
+  {
+    "word": "fare",
+    "meaning": "giá vé",
+    "example": "The train fare has increased this year."
+  },
+  {
+    "word": "customs",
+    "meaning": "hải quan",
+    "example": "All passengers must pass through customs."
+  },
+  {
+    "word": "invoice",
+    "meaning": "hóa đơn",
+    "example": "Please send the invoice to the accounting department."
+  },
+  {
+    "word": "revenue",
+    "meaning": "doanh thu",
+    "example": "Revenue increased by ten percent last quarter."
+  },
+  {
+    "word": "expenditure",
+    "meaning": "khoản chi tiêu",
+    "example": "The report lists all expenditures for the project."
+  },
+  {
+    "word": "audit",
+    "meaning": "kiểm toán",
+    "example": "An external audit will be conducted next month."
+  },
+  {
+    "word": "surplus",
+    "meaning": "thặng dư",
+    "example": "The company reported a budget surplus this year."
+  },
+  {
+    "word": "asset",
+    "meaning": "tài sản",
+    "example": "Real estate is considered a valuable asset."
+  },
+  {
+    "word": "campaign",
+    "meaning": "chiến dịch (quảng cáo, tiếp thị)",
+    "example": "The marketing campaign launched successfully."
+  },
+  {
+    "word": "target audience",
+    "meaning": "đối tượng khách hàng mục tiêu",
+    "example": "Our target audience is young professionals."
+  },
+  {
+    "word": "endorsement",
+    "meaning": "sự chứng thực, bảo trợ",
+    "example": "The brand secured a celebrity endorsement."
+  },
+  {
+    "word": "discount",
+    "meaning": "giảm giá",
+    "example": "Customers receive a discount for early payment."
+  },
+  {
+    "word": "brochure",
+    "meaning": "tập gấp quảng cáo",
+    "example": "The brochure describes all our services."
+  },
+  {
+    "word": "outreach",
+    "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
+    "example": "The team increased its community outreach efforts."
+  },
+  {
+    "word": "applicant",
+    "meaning": "người nộp đơn ứng tuyển",
+    "example": "Over fifty applicants applied for the position."
+  },
+  {
+    "word": "onboarding",
+    "meaning": "quá trình hòa nhập nhân viên mới",
+    "example": "The onboarding process takes about one week."
+  },
+  {
+    "word": "appraisal",
+    "meaning": "đánh giá (hiệu suất làm việc)",
+    "example": "Performance appraisals are held twice a year."
+  },
+  {
+    "word": "resign",
+    "meaning": "từ chức",
+    "example": "She decided to resign after ten years."
+  },
+  {
+    "word": "probation",
+    "meaning": "thời gian thử việc",
+    "example": "New hires undergo a three-month probation period."
+  },
+  {
+    "word": "candidate",
+    "meaning": "ứng viên",
+    "example": "The candidate impressed the interview panel."
+  },
+  {
+    "word": "complaint",
+    "meaning": "lời phàn nàn, khiếu nại",
+    "example": "The company handled the complaint promptly."
+  },
+  {
+    "word": "refund",
+    "meaning": "hoàn tiền",
+    "example": "Customers can request a refund within 30 days."
+  },
+  {
+    "word": "inquiry",
+    "meaning": "yêu cầu/câu hỏi thắc mắc",
+    "example": "We received an inquiry about the product warranty."
+  },
+  {
+    "word": "feedback",
+    "meaning": "phản hồi, ý kiến đóng góp",
+    "example": "Customer feedback helps us improve our service."
+  },
+  {
+    "word": "courteous",
+    "meaning": "lịch sự, nhã nhặn",
+    "example": "The staff were courteous and helpful."
+  },
+  {
+    "word": "resolve",
+    "meaning": "giải quyết (vấn đề)",
+    "example": "The team worked to resolve the issue quickly."
+  },
+  {
+    "word": "inventory",
+    "meaning": "hàng tồn kho",
+    "example": "The warehouse conducts inventory checks monthly."
+  },
+  {
+    "word": "shipment",
+    "meaning": "lô hàng (vận chuyển)",
+    "example": "The shipment is expected to arrive next week."
+  },
+  {
+    "word": "defective",
+    "meaning": "bị lỗi, khiếm khuyết",
+    "example": "Defective items are returned to the manufacturer."
+  },
+  {
+    "word": "supplier",
+    "meaning": "nhà cung cấp",
+    "example": "We switched to a more reliable supplier."
+  },
+  {
+    "word": "logistics",
+    "meaning": "hậu cần, công tác vận chuyển",
+    "example": "The logistics team coordinates all deliveries."
+  },
+  {
+    "word": "assembly line",
+    "meaning": "dây chuyền lắp ráp",
+    "example": "The factory upgraded its assembly line last year."
+  },
+  {
+    "word": "upgrade",
+    "meaning": "nâng cấp",
+    "example": "The company plans to upgrade its software system."
+  },
+  {
+    "word": "malfunction",
+    "meaning": "trục trặc, hoạt động sai",
+    "example": "A malfunction caused the server to shut down."
+  },
+  {
+    "word": "encryption",
+    "meaning": "mã hóa (dữ liệu)",
+    "example": "All data is protected by strong encryption."
+  },
+  {
+    "word": "troubleshoot",
+    "meaning": "khắc phục sự cố",
+    "example": "The technician helped troubleshoot the network issue."
+  },
+  {
+    "word": "compatible",
+    "meaning": "tương thích",
+    "example": "The new printer is compatible with most devices."
+  },
+  {
+    "word": "database",
+    "meaning": "cơ sở dữ liệu",
+    "example": "Customer records are stored in a secure database."
+  }
+]

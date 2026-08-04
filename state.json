@@ -1,0 +1,13 @@
+{
+  "telegram_offset": 0,
+  "current_day": null,
+  "vocab_cursor": 0,
+  "today": {
+    "vocab_words": [],
+    "vocab_slots_sent": [],
+    "grammar_send_time": null,
+    "grammar_sent": false,
+    "grammar_quiz_indices": []
+  },
+  "pending_quizzes": []
+}
