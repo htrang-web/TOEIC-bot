@@ -1,13 +1,209 @@
 {
   "telegram_offset": 0,
-  "current_day": null,
-  "vocab_cursor": 0,
+  "current_day": "2026-08-04",
+  "vocab_cursor": 10,
   "today": {
-    "vocab_words": [],
-    "vocab_slots_sent": [],
-    "grammar_send_time": null,
-    "grammar_sent": false,
-    "grammar_quiz_indices": []
+    "vocab_words": [
+      {
+        "index": 0,
+        "word": "agenda",
+        "meaning": "chương trình nghị sự",
+        "example": "Please review the agenda before tomorrow's meeting."
+      },
+      {
+        "index": 1,
+        "word": "correspondence",
+        "meaning": "thư từ, thư tín",
+        "example": "All correspondence with clients must be archived."
+      },
+      {
+        "index": 2,
+        "word": "memorandum",
+        "meaning": "bản ghi nhớ nội bộ",
+        "example": "The manager sent a memorandum about the new dress code."
+      },
+      {
+        "index": 3,
+        "word": "stationery",
+        "meaning": "văn phòng phẩm",
+        "example": "We need to order more stationery for the office."
+      },
+      {
+        "index": 4,
+        "word": "filing",
+        "meaning": "việc lưu trữ hồ sơ",
+        "example": "The filing system was reorganized last month."
+      },
+      {
+        "index": 5,
+        "word": "itinerary",
+        "meaning": "lịch trình (chuyến đi)",
+        "example": "Her itinerary includes three cities in five days."
+      },
+      {
+        "index": 6,
+        "word": "postpone",
+        "meaning": "hoãn lại",
+        "example": "The board decided to postpone the annual meeting."
+      },
+      {
+        "index": 7,
+        "word": "attendee",
+        "meaning": "người tham dự",
+        "example": "Each attendee received a printed handout."
+      },
+      {
+        "index": 8,
+        "word": "consensus",
+        "meaning": "sự đồng thuận",
+        "example": "The team reached a consensus on the new schedule."
+      },
+      {
+        "index": 9,
+        "word": "minutes",
+        "meaning": "biên bản cuộc họp",
+        "example": "Could you take the minutes of today's meeting?"
+      }
+    ],
+    "vocab_slots_sent": [
+      8,
+      10,
+      12,
+      14,
+      16
+    ],
+    "grammar_send_time": "16:30",
+    "grammar_sent": true,
+    "grammar_quiz_indices": [
+      38,
+      48,
+      34,
+      51,
+      47,
+      9,
+      17,
+      0,
+      4,
+      37
+    ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-04T18:34:00.282900+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The HR department is responsible for ___ new employees.",
+          "choices": [
+            "training",
+            "train",
+            "trains",
+            "trained"
+          ],
+          "explanation": "Sau giới từ \"for\" cần V-ing (danh động từ)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Please make sure the report is ___ accurate before submission.",
+          "choices": [
+            "completely",
+            "complete",
+            "completion",
+            "completing"
+          ],
+          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager insisted that the report ___ revised before submission.",
+          "choices": [
+            "be",
+            "is",
+            "was",
+            "being"
+          ],
+          "explanation": "Sau \"insist that\" trong câu giả định trang trọng, dùng động từ nguyên mẫu \"be\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees are encouraged to provide feedback ___ the new policies.",
+          "choices": [
+            "regarding",
+            "regard",
+            "regarded",
+            "regards"
+          ],
+          "explanation": "\"Regarding\" là giới từ nghĩa là \"về, liên quan đến\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company offers a ___ range of products to suit different needs.",
+          "choices": [
+            "wide",
+            "widely",
+            "width",
+            "widen"
+          ],
+          "explanation": "Cần tính từ \"wide\" để bổ nghĩa cho danh từ \"range\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
+          "choices": [
+            "will",
+            "is",
+            "has",
+            "was"
+          ],
+          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The quarterly report ___ by the finance team every three months.",
+          "choices": [
+            "is prepared",
+            "prepares",
+            "preparing",
+            "to prepare"
+          ],
+          "explanation": "Câu cần thể bị động (passive voice) vì báo cáo \"được\" chuẩn bị bởi ai đó."
+        },
+        {
+          "correct_letter": "A",
+          "question": "If the shipment ___ on time, we will lose the client.",
+          "choices": [
+            "doesn't arrive",
+            "won't arrive",
+            "isn't arriving",
+            "hasn't arrived"
+          ],
+          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, mệnh đề chính dùng will."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the budget cuts, the department managed to complete the project on time.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Even though",
+            "While"
+          ],
+          "explanation": "\"Despite\" theo sau là cụm danh từ (the budget cuts), không phải mệnh đề đầy đủ."
+        }
+      ]
+    }
+  ]
 }
