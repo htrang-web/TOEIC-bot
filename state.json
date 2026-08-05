@@ -65,7 +65,12 @@
         "example": "Submit your receipts for reimbursement by Friday."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10,
+      12,
+      14
+    ],
     "grammar_send_time": "19:30",
     "grammar_sent": false,
     "grammar_quiz_indices": [
