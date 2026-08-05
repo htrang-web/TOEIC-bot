@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 278326735,
+  "telegram_offset": 278326736,
   "current_day": "2026-08-05",
   "vocab_cursor": 20,
   "today": {
@@ -69,10 +69,11 @@
       8,
       10,
       12,
-      14
+      14,
+      16
     ],
     "grammar_send_time": "19:30",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       3,
       25,
@@ -86,5 +87,123 @@
       33
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-05T22:51:00.908553+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The new policy will take effect ___ the beginning of next month.",
+          "choices": [
+            "at",
+            "on",
+            "in",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The proposal ___ by the board before it can be implemented.",
+          "choices": [
+            "must be approved",
+            "must approve",
+            "must approving",
+            "must approves"
+          ],
+          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The negotiation process took longer ___ anyone had anticipated.",
+          "choices": [
+            "than",
+            "as",
+            "that",
+            "then"
+          ],
+          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "This is one of the ___ effective marketing strategies we have used.",
+          "choices": [
+            "most",
+            "more",
+            "much",
+            "very"
+          ],
+          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company offers a ___ range of products to suit different needs.",
+          "choices": [
+            "wide",
+            "widely",
+            "width",
+            "widen"
+          ],
+          "explanation": "Cần tính từ \"wide\" để bổ nghĩa cho danh từ \"range\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees who arrive late ___ notify their supervisor immediately.",
+          "choices": [
+            "should",
+            "should to",
+            "are should",
+            "shoulding"
+          ],
+          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The consultant recommended ___ the marketing strategy entirely.",
+          "choices": [
+            "revising",
+            "revise",
+            "to revise",
+            "revised"
+          ],
+          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Please make sure the report is ___ accurate before submission.",
+          "choices": [
+            "completely",
+            "complete",
+            "completion",
+            "completing"
+          ],
+          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report should be submitted ___ the end of the fiscal year.",
+          "choices": [
+            "before",
+            "since",
+            "for",
+            "during"
+          ],
+          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The seminar covers topics ___ ranging from finance to marketing.",
+          "choices": [
+            "",
+            "which",
+            "who",
+            "whom"
+          ],
+          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
+        }
+      ]
+    }
+  ]
 }
