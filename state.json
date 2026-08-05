@@ -1,209 +1,85 @@
 {
-  "telegram_offset": 278326736,
-  "current_day": "2026-08-05",
-  "vocab_cursor": 20,
+  "telegram_offset": 278326737,
+  "current_day": "2026-08-06",
+  "vocab_cursor": 30,
   "today": {
     "vocab_words": [
       {
-        "index": 10,
-        "word": "brief",
-        "meaning": "thông báo/tóm tắt ngắn gọn",
-        "example": "The manager will brief the staff at 9 a.m."
+        "index": 20,
+        "word": "boarding pass",
+        "meaning": "thẻ lên máy bay",
+        "example": "Please have your boarding pass ready at the gate."
       },
       {
-        "index": 11,
-        "word": "facilitate",
-        "meaning": "điều phối, tạo điều kiện thuận lợi",
-        "example": "She was asked to facilitate the discussion."
+        "index": 21,
+        "word": "delay",
+        "meaning": "sự trì hoãn",
+        "example": "The flight delay caused him to miss the connection."
       },
       {
-        "index": 12,
-        "word": "clause",
-        "meaning": "điều khoản (hợp đồng)",
-        "example": "This clause outlines the termination conditions."
+        "index": 22,
+        "word": "fare",
+        "meaning": "giá vé",
+        "example": "The train fare has increased this year."
       },
       {
-        "index": 13,
-        "word": "liability",
-        "meaning": "trách nhiệm pháp lý",
-        "example": "The company denied any liability for the damage."
+        "index": 23,
+        "word": "customs",
+        "meaning": "hải quan",
+        "example": "All passengers must pass through customs."
       },
       {
-        "index": 14,
-        "word": "breach",
-        "meaning": "sự vi phạm (hợp đồng, quy định)",
-        "example": "Late delivery is considered a breach of contract."
+        "index": 24,
+        "word": "invoice",
+        "meaning": "hóa đơn",
+        "example": "Please send the invoice to the accounting department."
       },
       {
-        "index": 15,
-        "word": "amend",
-        "meaning": "sửa đổi, tu chỉnh",
-        "example": "We need to amend the agreement before signing."
+        "index": 25,
+        "word": "revenue",
+        "meaning": "doanh thu",
+        "example": "Revenue increased by ten percent last quarter."
       },
       {
-        "index": 16,
-        "word": "binding",
-        "meaning": "có tính ràng buộc",
-        "example": "This agreement is legally binding on both parties."
+        "index": 26,
+        "word": "expenditure",
+        "meaning": "khoản chi tiêu",
+        "example": "The report lists all expenditures for the project."
       },
       {
-        "index": 17,
-        "word": "waiver",
-        "meaning": "sự miễn trừ (quyền lợi/nghĩa vụ)",
-        "example": "He signed a waiver before joining the tour."
+        "index": 27,
+        "word": "audit",
+        "meaning": "kiểm toán",
+        "example": "An external audit will be conducted next month."
       },
       {
-        "index": 18,
-        "word": "layover",
-        "meaning": "thời gian nối chuyến",
-        "example": "We have a two-hour layover in Singapore."
+        "index": 28,
+        "word": "surplus",
+        "meaning": "thặng dư",
+        "example": "The company reported a budget surplus this year."
       },
       {
-        "index": 19,
-        "word": "reimbursement",
-        "meaning": "sự hoàn trả (chi phí)",
-        "example": "Submit your receipts for reimbursement by Friday."
+        "index": 29,
+        "word": "asset",
+        "meaning": "tài sản",
+        "example": "Real estate is considered a valuable asset."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "19:30",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "20:30",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      3,
-      25,
-      49,
-      42,
+      54,
+      23,
+      20,
+      27,
+      32,
+      52,
       47,
-      14,
-      18,
-      48,
-      55,
-      33
+      28,
+      33,
+      58
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-05T22:51:00.908553+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The new policy will take effect ___ the beginning of next month.",
-          "choices": [
-            "at",
-            "on",
-            "in",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The proposal ___ by the board before it can be implemented.",
-          "choices": [
-            "must be approved",
-            "must approve",
-            "must approving",
-            "must approves"
-          ],
-          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The negotiation process took longer ___ anyone had anticipated.",
-          "choices": [
-            "than",
-            "as",
-            "that",
-            "then"
-          ],
-          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "This is one of the ___ effective marketing strategies we have used.",
-          "choices": [
-            "most",
-            "more",
-            "much",
-            "very"
-          ],
-          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company offers a ___ range of products to suit different needs.",
-          "choices": [
-            "wide",
-            "widely",
-            "width",
-            "widen"
-          ],
-          "explanation": "Cần tính từ \"wide\" để bổ nghĩa cho danh từ \"range\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Employees who arrive late ___ notify their supervisor immediately.",
-          "choices": [
-            "should",
-            "should to",
-            "are should",
-            "shoulding"
-          ],
-          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The consultant recommended ___ the marketing strategy entirely.",
-          "choices": [
-            "revising",
-            "revise",
-            "to revise",
-            "revised"
-          ],
-          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Please make sure the report is ___ accurate before submission.",
-          "choices": [
-            "completely",
-            "complete",
-            "completion",
-            "completing"
-          ],
-          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The report should be submitted ___ the end of the fiscal year.",
-          "choices": [
-            "before",
-            "since",
-            "for",
-            "during"
-          ],
-          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The seminar covers topics ___ ranging from finance to marketing.",
-          "choices": [
-            "",
-            "which",
-            "who",
-            "whom"
-          ],
-          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
