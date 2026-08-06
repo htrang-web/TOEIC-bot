@@ -65,7 +65,13 @@
         "example": "Real estate is considered a valuable asset."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10,
+      12,
+      14,
+      16
+    ],
     "grammar_send_time": "20:30",
     "grammar_sent": false,
     "grammar_quiz_indices": [
