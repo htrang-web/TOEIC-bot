@@ -1,165 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-07",
-  "vocab_cursor": 40,
+  "current_day": "2026-08-08",
+  "vocab_cursor": 50,
   "today": {
     "vocab_words": [
       {
-        "index": 30,
-        "word": "campaign",
-        "meaning": "chiến dịch (quảng cáo, tiếp thị)",
-        "example": "The marketing campaign launched successfully."
+        "index": 40,
+        "word": "probation",
+        "meaning": "thời gian thử việc",
+        "example": "New hires undergo a three-month probation period."
       },
       {
-        "index": 31,
-        "word": "target audience",
-        "meaning": "đối tượng khách hàng mục tiêu",
-        "example": "Our target audience is young professionals."
+        "index": 41,
+        "word": "candidate",
+        "meaning": "ứng viên",
+        "example": "The candidate impressed the interview panel."
       },
       {
-        "index": 32,
-        "word": "endorsement",
-        "meaning": "sự chứng thực, bảo trợ",
-        "example": "The brand secured a celebrity endorsement."
+        "index": 42,
+        "word": "complaint",
+        "meaning": "lời phàn nàn, khiếu nại",
+        "example": "The company handled the complaint promptly."
       },
       {
-        "index": 33,
-        "word": "discount",
-        "meaning": "giảm giá",
-        "example": "Customers receive a discount for early payment."
+        "index": 43,
+        "word": "refund",
+        "meaning": "hoàn tiền",
+        "example": "Customers can request a refund within 30 days."
       },
       {
-        "index": 34,
-        "word": "brochure",
-        "meaning": "tập gấp quảng cáo",
-        "example": "The brochure describes all our services."
+        "index": 44,
+        "word": "inquiry",
+        "meaning": "yêu cầu/câu hỏi thắc mắc",
+        "example": "We received an inquiry about the product warranty."
       },
       {
-        "index": 35,
-        "word": "outreach",
-        "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
-        "example": "The team increased its community outreach efforts."
+        "index": 45,
+        "word": "feedback",
+        "meaning": "phản hồi, ý kiến đóng góp",
+        "example": "Customer feedback helps us improve our service."
       },
       {
-        "index": 36,
-        "word": "applicant",
-        "meaning": "người nộp đơn ứng tuyển",
-        "example": "Over fifty applicants applied for the position."
+        "index": 46,
+        "word": "courteous",
+        "meaning": "lịch sự, nhã nhặn",
+        "example": "The staff were courteous and helpful."
       },
       {
-        "index": 37,
-        "word": "onboarding",
-        "meaning": "quá trình hòa nhập nhân viên mới",
-        "example": "The onboarding process takes about one week."
+        "index": 47,
+        "word": "resolve",
+        "meaning": "giải quyết (vấn đề)",
+        "example": "The team worked to resolve the issue quickly."
       },
       {
-        "index": 38,
-        "word": "appraisal",
-        "meaning": "đánh giá (hiệu suất làm việc)",
-        "example": "Performance appraisals are held twice a year."
+        "index": 48,
+        "word": "inventory",
+        "meaning": "hàng tồn kho",
+        "example": "The warehouse conducts inventory checks monthly."
       },
       {
-        "index": 39,
-        "word": "resign",
-        "meaning": "từ chức",
-        "example": "She decided to resign after ten years."
+        "index": 49,
+        "word": "shipment",
+        "meaning": "lô hàng (vận chuyển)",
+        "example": "The shipment is expected to arrive next week."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "12:45",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "16:30",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      18,
-      21,
-      8,
-      5,
+      33,
+      12,
+      50,
+      14,
       15,
-      29,
-      13,
-      40,
-      44,
-      35
+      22,
+      53,
+      46,
+      8,
+      17
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "vocab_check",
-      "created_at": "2026-08-07T16:40:52.989549+07:00",
-      "count": 6,
-      "items": [
-        {
-          "correct_letter": "C",
-          "word": "campaign",
-          "meaning": "chiến dịch (quảng cáo, tiếp thị)",
-          "choices": [
-            "upgrade",
-            "surplus",
-            "campaign",
-            "defective"
-          ]
-        },
-        {
-          "correct_letter": "A",
-          "word": "target audience",
-          "meaning": "đối tượng khách hàng mục tiêu",
-          "choices": [
-            "target audience",
-            "probation",
-            "compatible",
-            "attendee"
-          ]
-        },
-        {
-          "correct_letter": "C",
-          "word": "endorsement",
-          "meaning": "sự chứng thực, bảo trợ",
-          "choices": [
-            "probation",
-            "amend",
-            "endorsement",
-            "inventory"
-          ]
-        },
-        {
-          "correct_letter": "C",
-          "word": "discount",
-          "meaning": "giảm giá",
-          "choices": [
-            "feedback",
-            "encryption",
-            "discount",
-            "layover"
-          ]
-        },
-        {
-          "correct_letter": "C",
-          "word": "brochure",
-          "meaning": "tập gấp quảng cáo",
-          "choices": [
-            "layover",
-            "inquiry",
-            "brochure",
-            "brief"
-          ]
-        },
-        {
-          "correct_letter": "B",
-          "word": "outreach",
-          "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
-          "choices": [
-            "delay",
-            "outreach",
-            "malfunction",
-            "bulky"
-          ]
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
