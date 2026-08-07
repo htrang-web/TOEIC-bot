@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 278326738,
+  "telegram_offset": 278326740,
   "current_day": "2026-08-07",
   "vocab_cursor": 40,
   "today": {
@@ -68,7 +68,9 @@
     "vocab_slots_sent": [
       8,
       10,
-      12
+      12,
+      14,
+      16
     ],
     "grammar_send_time": "12:45",
     "grammar_sent": true,
@@ -87,119 +89,75 @@
   },
   "pending_quizzes": [
     {
-      "type": "grammar",
-      "created_at": "2026-08-07T13:01:36.485948+07:00",
-      "count": 10,
+      "type": "vocab_check",
+      "created_at": "2026-08-07T16:40:52.989549+07:00",
+      "count": 6,
       "items": [
         {
-          "correct_letter": "A",
-          "question": "The consultant recommended ___ the marketing strategy entirely.",
+          "correct_letter": "C",
+          "word": "campaign",
+          "meaning": "chiến dịch (quảng cáo, tiếp thị)",
           "choices": [
-            "revising",
-            "revise",
-            "to revise",
-            "revised"
-          ],
-          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
+            "upgrade",
+            "surplus",
+            "campaign",
+            "defective"
+          ]
         },
         {
           "correct_letter": "A",
-          "question": "The company's profits have grown steadily ___ the past five years.",
+          "word": "target audience",
+          "meaning": "đối tượng khách hàng mục tiêu",
           "choices": [
-            "over",
-            "since",
-            "at",
-            "by"
-          ],
-          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
+            "target audience",
+            "probation",
+            "compatible",
+            "attendee"
+          ]
         },
         {
-          "correct_letter": "A",
-          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
+          "correct_letter": "C",
+          "word": "endorsement",
+          "meaning": "sự chứng thực, bảo trợ",
           "choices": [
-            "proceeded",
-            "proceeding",
-            "to proceed",
-            "proceeds"
-          ],
-          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
+            "probation",
+            "amend",
+            "endorsement",
+            "inventory"
+          ]
         },
         {
-          "correct_letter": "A",
-          "question": "The manager asked her assistant ___ the documents before the meeting.",
+          "correct_letter": "C",
+          "word": "discount",
+          "meaning": "giảm giá",
           "choices": [
-            "to organize",
-            "organize",
-            "organizing",
-            "organized"
-          ],
-          "explanation": "Cấu trúc \"ask someone to do something\"."
+            "feedback",
+            "encryption",
+            "discount",
+            "layover"
+          ]
         },
         {
-          "correct_letter": "A",
-          "question": "The client requested that the invoice ___ sent by email.",
+          "correct_letter": "C",
+          "word": "brochure",
+          "meaning": "tập gấp quảng cáo",
           "choices": [
-            "be",
-            "is",
-            "was",
-            "being"
-          ],
-          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
+            "layover",
+            "inquiry",
+            "brochure",
+            "brief"
+          ]
         },
         {
-          "correct_letter": "A",
-          "question": "The company plans to expand its operations ___ Southeast Asia next year.",
+          "correct_letter": "B",
+          "word": "outreach",
+          "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
           "choices": [
-            "into",
-            "to",
-            "at",
-            "on"
-          ],
-          "explanation": "\"Expand into + khu vực\" là cụm từ thường dùng để nói về mở rộng kinh doanh."
-        },
-        {
-          "correct_letter": "A",
-          "question": "___ the delay, the project was completed under budget.",
-          "choices": [
-            "Despite",
-            "Although",
-            "Because",
-            "Since"
-          ],
-          "explanation": "\"Despite\" + cụm danh từ, không phải mệnh đề đầy đủ như \"although\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager, along with two assistants, ___ attending the conference.",
-          "choices": [
-            "is",
-            "are",
-            "were",
-            "be"
-          ],
-          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's success can be ___ to its strong leadership.",
-          "choices": [
-            "attributed",
-            "attribute",
-            "attributing",
-            "attributes"
-          ],
-          "explanation": "Thể bị động: \"be attributed to something\" nghĩa là được cho là do."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Customers can track their orders ___ our new mobile application.",
-          "choices": [
-            "through",
-            "for",
-            "of",
-            "at"
-          ],
-          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
+            "delay",
+            "outreach",
+            "malfunction",
+            "bulky"
+          ]
         }
       ]
     }
