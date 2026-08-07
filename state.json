@@ -1,90 +1,86 @@
 {
-  "telegram_offset": 278326737,
-  "current_day": "2026-08-06",
-  "vocab_cursor": 30,
+  "telegram_offset": 278326738,
+  "current_day": "2026-08-07",
+  "vocab_cursor": 40,
   "today": {
     "vocab_words": [
       {
-        "index": 20,
-        "word": "boarding pass",
-        "meaning": "thẻ lên máy bay",
-        "example": "Please have your boarding pass ready at the gate."
+        "index": 30,
+        "word": "campaign",
+        "meaning": "chiến dịch (quảng cáo, tiếp thị)",
+        "example": "The marketing campaign launched successfully."
       },
       {
-        "index": 21,
-        "word": "delay",
-        "meaning": "sự trì hoãn",
-        "example": "The flight delay caused him to miss the connection."
+        "index": 31,
+        "word": "target audience",
+        "meaning": "đối tượng khách hàng mục tiêu",
+        "example": "Our target audience is young professionals."
       },
       {
-        "index": 22,
-        "word": "fare",
-        "meaning": "giá vé",
-        "example": "The train fare has increased this year."
+        "index": 32,
+        "word": "endorsement",
+        "meaning": "sự chứng thực, bảo trợ",
+        "example": "The brand secured a celebrity endorsement."
       },
       {
-        "index": 23,
-        "word": "customs",
-        "meaning": "hải quan",
-        "example": "All passengers must pass through customs."
+        "index": 33,
+        "word": "discount",
+        "meaning": "giảm giá",
+        "example": "Customers receive a discount for early payment."
       },
       {
-        "index": 24,
-        "word": "invoice",
-        "meaning": "hóa đơn",
-        "example": "Please send the invoice to the accounting department."
+        "index": 34,
+        "word": "brochure",
+        "meaning": "tập gấp quảng cáo",
+        "example": "The brochure describes all our services."
       },
       {
-        "index": 25,
-        "word": "revenue",
-        "meaning": "doanh thu",
-        "example": "Revenue increased by ten percent last quarter."
+        "index": 35,
+        "word": "outreach",
+        "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
+        "example": "The team increased its community outreach efforts."
       },
       {
-        "index": 26,
-        "word": "expenditure",
-        "meaning": "khoản chi tiêu",
-        "example": "The report lists all expenditures for the project."
+        "index": 36,
+        "word": "applicant",
+        "meaning": "người nộp đơn ứng tuyển",
+        "example": "Over fifty applicants applied for the position."
       },
       {
-        "index": 27,
-        "word": "audit",
-        "meaning": "kiểm toán",
-        "example": "An external audit will be conducted next month."
+        "index": 37,
+        "word": "onboarding",
+        "meaning": "quá trình hòa nhập nhân viên mới",
+        "example": "The onboarding process takes about one week."
       },
       {
-        "index": 28,
-        "word": "surplus",
-        "meaning": "thặng dư",
-        "example": "The company reported a budget surplus this year."
+        "index": 38,
+        "word": "appraisal",
+        "meaning": "đánh giá (hiệu suất làm việc)",
+        "example": "Performance appraisals are held twice a year."
       },
       {
-        "index": 29,
-        "word": "asset",
-        "meaning": "tài sản",
-        "example": "Real estate is considered a valuable asset."
+        "index": 39,
+        "word": "resign",
+        "meaning": "từ chức",
+        "example": "She decided to resign after ten years."
       }
     ],
     "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
+      8
     ],
-    "grammar_send_time": "20:30",
+    "grammar_send_time": "12:45",
     "grammar_sent": false,
     "grammar_quiz_indices": [
-      54,
-      23,
-      20,
-      27,
-      32,
-      52,
-      47,
-      28,
-      33,
-      58
+      18,
+      21,
+      8,
+      5,
+      15,
+      29,
+      13,
+      40,
+      44,
+      35
     ]
   },
   "pending_quizzes": []
