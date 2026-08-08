@@ -65,7 +65,10 @@
         "example": "The shipment is expected to arrive next week."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "16:30",
     "grammar_sent": false,
     "grammar_quiz_indices": [
