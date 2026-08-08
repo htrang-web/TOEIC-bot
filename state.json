@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-08",
-  "vocab_cursor": 50,
+  "current_day": "2026-08-09",
+  "vocab_cursor": 60,
   "today": {
     "vocab_words": [
       {
-        "index": 40,
-        "word": "probation",
-        "meaning": "thời gian thử việc",
-        "example": "New hires undergo a three-month probation period."
+        "index": 50,
+        "word": "defective",
+        "meaning": "bị lỗi, khiếm khuyết",
+        "example": "Defective items are returned to the manufacturer."
       },
       {
-        "index": 41,
-        "word": "candidate",
-        "meaning": "ứng viên",
-        "example": "The candidate impressed the interview panel."
+        "index": 51,
+        "word": "supplier",
+        "meaning": "nhà cung cấp",
+        "example": "We switched to a more reliable supplier."
       },
       {
-        "index": 42,
-        "word": "complaint",
-        "meaning": "lời phàn nàn, khiếu nại",
-        "example": "The company handled the complaint promptly."
+        "index": 52,
+        "word": "logistics",
+        "meaning": "hậu cần, công tác vận chuyển",
+        "example": "The logistics team coordinates all deliveries."
       },
       {
-        "index": 43,
-        "word": "refund",
-        "meaning": "hoàn tiền",
-        "example": "Customers can request a refund within 30 days."
+        "index": 53,
+        "word": "assembly line",
+        "meaning": "dây chuyền lắp ráp",
+        "example": "The factory upgraded its assembly line last year."
       },
       {
-        "index": 44,
-        "word": "inquiry",
-        "meaning": "yêu cầu/câu hỏi thắc mắc",
-        "example": "We received an inquiry about the product warranty."
+        "index": 54,
+        "word": "upgrade",
+        "meaning": "nâng cấp",
+        "example": "The company plans to upgrade its software system."
       },
       {
-        "index": 45,
-        "word": "feedback",
-        "meaning": "phản hồi, ý kiến đóng góp",
-        "example": "Customer feedback helps us improve our service."
+        "index": 55,
+        "word": "malfunction",
+        "meaning": "trục trặc, hoạt động sai",
+        "example": "A malfunction caused the server to shut down."
       },
       {
-        "index": 46,
-        "word": "courteous",
-        "meaning": "lịch sự, nhã nhặn",
-        "example": "The staff were courteous and helpful."
+        "index": 56,
+        "word": "encryption",
+        "meaning": "mã hóa (dữ liệu)",
+        "example": "All data is protected by strong encryption."
       },
       {
-        "index": 47,
-        "word": "resolve",
-        "meaning": "giải quyết (vấn đề)",
-        "example": "The team worked to resolve the issue quickly."
+        "index": 57,
+        "word": "troubleshoot",
+        "meaning": "khắc phục sự cố",
+        "example": "The technician helped troubleshoot the network issue."
       },
       {
-        "index": 48,
-        "word": "inventory",
-        "meaning": "hàng tồn kho",
-        "example": "The warehouse conducts inventory checks monthly."
+        "index": 58,
+        "word": "compatible",
+        "meaning": "tương thích",
+        "example": "The new printer is compatible with most devices."
       },
       {
-        "index": 49,
-        "word": "shipment",
-        "meaning": "lô hàng (vận chuyển)",
-        "example": "The shipment is expected to arrive next week."
+        "index": 59,
+        "word": "database",
+        "meaning": "cơ sở dữ liệu",
+        "example": "Customer records are stored in a secure database."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "16:30",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "22:30",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      33,
-      12,
+      25,
+      40,
+      49,
+      26,
+      56,
+      42,
       50,
-      14,
-      15,
       22,
-      53,
-      46,
-      8,
-      17
+      14,
+      43
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-08T17:03:26.777230+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The seminar covers topics ___ ranging from finance to marketing.",
-          "choices": [
-            "",
-            "which",
-            "who",
-            "whom"
-          ],
-          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new software update improves the system's ___ significantly.",
-          "choices": [
-            "efficiency",
-            "efficient",
-            "efficiently",
-            "efficiencies"
-          ],
-          "explanation": "Cần danh từ (noun) sau tính từ sở hữu \"the system's\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager will be ___ for approving all expense reports.",
-          "choices": [
-            "responsible",
-            "responsibly",
-            "responsibility",
-            "respond"
-          ],
-          "explanation": "Cụm cố định \"be responsible for\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Employees who arrive late ___ notify their supervisor immediately.",
-          "choices": [
-            "should",
-            "should to",
-            "are should",
-            "shoulding"
-          ],
-          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The client requested that the invoice ___ sent by email.",
-          "choices": [
-            "be",
-            "is",
-            "was",
-            "being"
-          ],
-          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "All visitors must sign in ___ entering the building.",
-          "choices": [
-            "before",
-            "after",
-            "during",
-            "while"
-          ],
-          "explanation": "Ngữ nghĩa yêu cầu ký tên trước khi vào tòa nhà nên dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The client was pleased ___ the quality of the final product.",
-          "choices": [
-            "with",
-            "for",
-            "to",
-            "about"
-          ],
-          "explanation": "Cụm cố định \"be pleased with something\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The board members ___ discussing the proposal when the fire alarm went off.",
-          "choices": [
-            "were",
-            "was",
-            "have been",
-            "had"
-          ],
-          "explanation": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra thì bị gián đoạn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
-          "choices": [
-            "proceeded",
-            "proceeding",
-            "to proceed",
-            "proceeds"
-          ],
-          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Our supplier can deliver the goods ___ two business days.",
-          "choices": [
-            "within",
-            "during",
-            "for",
-            "since"
-          ],
-          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
