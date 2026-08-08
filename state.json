@@ -69,10 +69,11 @@
       8,
       10,
       12,
-      14
+      14,
+      16
     ],
     "grammar_send_time": "16:30",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       33,
       12,
@@ -86,5 +87,123 @@
       17
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-08T17:03:26.777230+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The seminar covers topics ___ ranging from finance to marketing.",
+          "choices": [
+            "",
+            "which",
+            "who",
+            "whom"
+          ],
+          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new software update improves the system's ___ significantly.",
+          "choices": [
+            "efficiency",
+            "efficient",
+            "efficiently",
+            "efficiencies"
+          ],
+          "explanation": "Cần danh từ (noun) sau tính từ sở hữu \"the system's\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager will be ___ for approving all expense reports.",
+          "choices": [
+            "responsible",
+            "responsibly",
+            "responsibility",
+            "respond"
+          ],
+          "explanation": "Cụm cố định \"be responsible for\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees who arrive late ___ notify their supervisor immediately.",
+          "choices": [
+            "should",
+            "should to",
+            "are should",
+            "shoulding"
+          ],
+          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client requested that the invoice ___ sent by email.",
+          "choices": [
+            "be",
+            "is",
+            "was",
+            "being"
+          ],
+          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "All visitors must sign in ___ entering the building.",
+          "choices": [
+            "before",
+            "after",
+            "during",
+            "while"
+          ],
+          "explanation": "Ngữ nghĩa yêu cầu ký tên trước khi vào tòa nhà nên dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client was pleased ___ the quality of the final product.",
+          "choices": [
+            "with",
+            "for",
+            "to",
+            "about"
+          ],
+          "explanation": "Cụm cố định \"be pleased with something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The board members ___ discussing the proposal when the fire alarm went off.",
+          "choices": [
+            "were",
+            "was",
+            "have been",
+            "had"
+          ],
+          "explanation": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra thì bị gián đoạn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
+          "choices": [
+            "proceeded",
+            "proceeding",
+            "to proceed",
+            "proceeds"
+          ],
+          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        }
+      ]
+    }
+  ]
 }
