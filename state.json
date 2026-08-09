@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-09",
-  "vocab_cursor": 60,
+  "current_day": "2026-08-10",
+  "vocab_cursor": 8,
   "today": {
     "vocab_words": [
       {
-        "index": 50,
-        "word": "defective",
-        "meaning": "bị lỗi, khiếm khuyết",
-        "example": "Defective items are returned to the manufacturer."
+        "index": 60,
+        "word": "bankruptcy",
+        "meaning": "phá sản",
+        "example": "The company went from near bankruptcy to a high level of profitability"
       },
       {
-        "index": 51,
-        "word": "supplier",
-        "meaning": "nhà cung cấp",
-        "example": "We switched to a more reliable supplier."
+        "index": 61,
+        "word": "bulky",
+        "meaning": "cồng kềnh, đồ sộ",
+        "example": "Bulky items are not allowed"
       },
       {
-        "index": 52,
-        "word": "logistics",
-        "meaning": "hậu cần, công tác vận chuyển",
-        "example": "The logistics team coordinates all deliveries."
+        "index": 0,
+        "word": "agenda",
+        "meaning": "chương trình nghị sự",
+        "example": "Please review the agenda before tomorrow's meeting."
       },
       {
-        "index": 53,
-        "word": "assembly line",
-        "meaning": "dây chuyền lắp ráp",
-        "example": "The factory upgraded its assembly line last year."
+        "index": 1,
+        "word": "correspondence",
+        "meaning": "thư từ, thư tín",
+        "example": "All correspondence with clients must be archived."
       },
       {
-        "index": 54,
-        "word": "upgrade",
-        "meaning": "nâng cấp",
-        "example": "The company plans to upgrade its software system."
+        "index": 2,
+        "word": "memorandum",
+        "meaning": "bản ghi nhớ nội bộ",
+        "example": "The manager sent a memorandum about the new dress code."
       },
       {
-        "index": 55,
-        "word": "malfunction",
-        "meaning": "trục trặc, hoạt động sai",
-        "example": "A malfunction caused the server to shut down."
+        "index": 3,
+        "word": "stationery",
+        "meaning": "văn phòng phẩm",
+        "example": "We need to order more stationery for the office."
       },
       {
-        "index": 56,
-        "word": "encryption",
-        "meaning": "mã hóa (dữ liệu)",
-        "example": "All data is protected by strong encryption."
+        "index": 4,
+        "word": "filing",
+        "meaning": "việc lưu trữ hồ sơ",
+        "example": "The filing system was reorganized last month."
       },
       {
-        "index": 57,
-        "word": "troubleshoot",
-        "meaning": "khắc phục sự cố",
-        "example": "The technician helped troubleshoot the network issue."
+        "index": 5,
+        "word": "itinerary",
+        "meaning": "lịch trình (chuyến đi)",
+        "example": "Her itinerary includes three cities in five days."
       },
       {
-        "index": 58,
-        "word": "compatible",
-        "meaning": "tương thích",
-        "example": "The new printer is compatible with most devices."
+        "index": 6,
+        "word": "postpone",
+        "meaning": "hoãn lại",
+        "example": "The board decided to postpone the annual meeting."
       },
       {
-        "index": 59,
-        "word": "database",
-        "meaning": "cơ sở dữ liệu",
-        "example": "Customer records are stored in a secure database."
+        "index": 7,
+        "word": "attendee",
+        "meaning": "người tham dự",
+        "example": "Each attendee received a printed handout."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "22:30",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "17:30",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      25,
-      40,
-      49,
-      26,
-      56,
-      42,
-      50,
+      23,
+      24,
+      43,
       22,
-      14,
-      43
+      37,
+      16,
+      13,
+      6,
+      52,
+      7
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-09T22:57:10.510750+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The proposal ___ by the board before it can be implemented.",
-          "choices": [
-            "must be approved",
-            "must approve",
-            "must approving",
-            "must approves"
-          ],
-          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager, along with two assistants, ___ attending the conference.",
-          "choices": [
-            "is",
-            "are",
-            "were",
-            "be"
-          ],
-          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The negotiation process took longer ___ anyone had anticipated.",
-          "choices": [
-            "than",
-            "as",
-            "that",
-            "then"
-          ],
-          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "She has been working on this project ___ three months.",
-          "choices": [
-            "for",
-            "since",
-            "from",
-            "at"
-          ],
-          "explanation": "\"For + khoảng thời gian\" (three months) dùng với thì hiện tại hoàn thành tiếp diễn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The department head ___ several changes to improve efficiency.",
-          "choices": [
-            "has proposed",
-            "propose",
-            "proposing",
-            "proposal"
-          ],
-          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
-        },
-        {
-          "correct_letter": "A",
-          "question": "This is one of the ___ effective marketing strategies we have used.",
-          "choices": [
-            "most",
-            "more",
-            "much",
-            "very"
-          ],
-          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager will be ___ for approving all expense reports.",
-          "choices": [
-            "responsible",
-            "responsibly",
-            "responsibility",
-            "respond"
-          ],
-          "explanation": "Cụm cố định \"be responsible for\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "All visitors must sign in ___ entering the building.",
-          "choices": [
-            "before",
-            "after",
-            "during",
-            "while"
-          ],
-          "explanation": "Ngữ nghĩa yêu cầu ký tên trước khi vào tòa nhà nên dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Employees who arrive late ___ notify their supervisor immediately.",
-          "choices": [
-            "should",
-            "should to",
-            "are should",
-            "shoulding"
-          ],
-          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The staff were given clear instructions ___ how to use the new system.",
-          "choices": [
-            "on",
-            "of",
-            "for",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"instructions on how to...\"."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
