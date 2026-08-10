@@ -73,7 +73,7 @@
       16
     ],
     "grammar_send_time": "17:30",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       23,
       24,
@@ -87,5 +87,123 @@
       7
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-10T21:33:47.036601+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The manager praised the team for their ___ to the project.",
+          "choices": [
+            "dedication",
+            "dedicate",
+            "dedicated",
+            "dedicating"
+          ],
+          "explanation": "Cần danh từ sau tính từ sở hữu \"their\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Neither the manager nor the employees ___ aware of the schedule change.",
+          "choices": [
+            "were",
+            "was",
+            "is",
+            "be"
+          ],
+          "explanation": "Với cấu trúc \"neither...nor\", động từ chia theo chủ ngữ gần nhất (employees - số nhiều)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The staff were given clear instructions ___ how to use the new system.",
+          "choices": [
+            "on",
+            "of",
+            "for",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"instructions on how to...\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "All visitors must sign in ___ entering the building.",
+          "choices": [
+            "before",
+            "after",
+            "during",
+            "while"
+          ],
+          "explanation": "Ngữ nghĩa yêu cầu ký tên trước khi vào tòa nhà nên dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the budget cuts, the department managed to complete the project on time.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Even though",
+            "While"
+          ],
+          "explanation": "\"Despite\" theo sau là cụm danh từ (the budget cuts), không phải mệnh đề đầy đủ."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The training session was ___ informative that attendees asked for a follow-up.",
+          "choices": [
+            "so",
+            "such",
+            "too",
+            "very"
+          ],
+          "explanation": "Cấu trúc \"so + adj + that\" diễn tả kết quả."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the delay, the project was completed under budget.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Because",
+            "Since"
+          ],
+          "explanation": "\"Despite\" + cụm danh từ, không phải mệnh đề đầy đủ như \"although\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "All applicants must have ___ experience in customer service.",
+          "choices": [
+            "relevant",
+            "relevantly",
+            "relevance",
+            "relevancy"
+          ],
+          "explanation": "Cần tính từ (adjective) đứng trước danh từ \"experience\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The factory has implemented new procedures to ___ workplace accidents.",
+          "choices": [
+            "reduce",
+            "reducing",
+            "reduction",
+            "reduces"
+          ],
+          "explanation": "Sau \"to\" (mục đích) cần động từ nguyên mẫu."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The committee is reviewing several proposals ___ improving workplace safety.",
+          "choices": [
+            "for",
+            "of",
+            "about",
+            "on"
+          ],
+          "explanation": "Cụm \"proposals for + V-ing\" nghĩa là đề xuất nhằm mục đích gì."
+        }
+      ]
+    }
+  ]
 }
