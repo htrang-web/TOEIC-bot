@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-11",
-  "vocab_cursor": 18,
+  "current_day": "2026-08-12",
+  "vocab_cursor": 28,
   "today": {
     "vocab_words": [
       {
-        "index": 8,
-        "word": "consensus",
-        "meaning": "sự đồng thuận",
-        "example": "The team reached a consensus on the new schedule."
+        "index": 18,
+        "word": "layover",
+        "meaning": "thời gian nối chuyến",
+        "example": "We have a two-hour layover in Singapore."
       },
       {
-        "index": 9,
-        "word": "minutes",
-        "meaning": "biên bản cuộc họp",
-        "example": "Could you take the minutes of today's meeting?"
+        "index": 19,
+        "word": "reimbursement",
+        "meaning": "sự hoàn trả (chi phí)",
+        "example": "Submit your receipts for reimbursement by Friday."
       },
       {
-        "index": 10,
-        "word": "brief",
-        "meaning": "thông báo/tóm tắt ngắn gọn",
-        "example": "The manager will brief the staff at 9 a.m."
+        "index": 20,
+        "word": "boarding pass",
+        "meaning": "thẻ lên máy bay",
+        "example": "Please have your boarding pass ready at the gate."
       },
       {
-        "index": 11,
-        "word": "facilitate",
-        "meaning": "điều phối, tạo điều kiện thuận lợi",
-        "example": "She was asked to facilitate the discussion."
+        "index": 21,
+        "word": "delay",
+        "meaning": "sự trì hoãn",
+        "example": "The flight delay caused him to miss the connection."
       },
       {
-        "index": 12,
-        "word": "clause",
-        "meaning": "điều khoản (hợp đồng)",
-        "example": "This clause outlines the termination conditions."
+        "index": 22,
+        "word": "fare",
+        "meaning": "giá vé",
+        "example": "The train fare has increased this year."
       },
       {
-        "index": 13,
-        "word": "liability",
-        "meaning": "trách nhiệm pháp lý",
-        "example": "The company denied any liability for the damage."
+        "index": 23,
+        "word": "customs",
+        "meaning": "hải quan",
+        "example": "All passengers must pass through customs."
       },
       {
-        "index": 14,
-        "word": "breach",
-        "meaning": "sự vi phạm (hợp đồng, quy định)",
-        "example": "Late delivery is considered a breach of contract."
+        "index": 24,
+        "word": "invoice",
+        "meaning": "hóa đơn",
+        "example": "Please send the invoice to the accounting department."
       },
       {
-        "index": 15,
-        "word": "amend",
-        "meaning": "sửa đổi, tu chỉnh",
-        "example": "We need to amend the agreement before signing."
+        "index": 25,
+        "word": "revenue",
+        "meaning": "doanh thu",
+        "example": "Revenue increased by ten percent last quarter."
       },
       {
-        "index": 16,
-        "word": "binding",
-        "meaning": "có tính ràng buộc",
-        "example": "This agreement is legally binding on both parties."
+        "index": 26,
+        "word": "expenditure",
+        "meaning": "khoản chi tiêu",
+        "example": "The report lists all expenditures for the project."
       },
       {
-        "index": 17,
-        "word": "waiver",
-        "meaning": "sự miễn trừ (quyền lợi/nghĩa vụ)",
-        "example": "He signed a waiver before joining the tour."
+        "index": 27,
+        "word": "audit",
+        "meaning": "kiểm toán",
+        "example": "An external audit will be conducted next month."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "10:45",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "11:15",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      14,
+      4,
+      53,
+      43,
+      55,
+      56,
+      5,
       49,
-      38,
-      9,
-      7,
-      18,
-      50,
-      24,
-      3,
-      20
+      32,
+      10,
+      34
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-11T11:51:02.399831+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "Employees who arrive late ___ notify their supervisor immediately.",
-          "choices": [
-            "should",
-            "should to",
-            "are should",
-            "shoulding"
-          ],
-          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The negotiation process took longer ___ anyone had anticipated.",
-          "choices": [
-            "than",
-            "as",
-            "that",
-            "then"
-          ],
-          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The HR department is responsible for ___ new employees.",
-          "choices": [
-            "training",
-            "train",
-            "trains",
-            "trained"
-          ],
-          "explanation": "Sau giới từ \"for\" cần V-ing (danh động từ)."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
-          "choices": [
-            "will",
-            "is",
-            "has",
-            "was"
-          ],
-          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The committee is reviewing several proposals ___ improving workplace safety.",
-          "choices": [
-            "for",
-            "of",
-            "about",
-            "on"
-          ],
-          "explanation": "Cụm \"proposals for + V-ing\" nghĩa là đề xuất nhằm mục đích gì."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The consultant recommended ___ the marketing strategy entirely.",
-          "choices": [
-            "revising",
-            "revise",
-            "to revise",
-            "revised"
-          ],
-          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager will be ___ for approving all expense reports.",
-          "choices": [
-            "responsible",
-            "responsibly",
-            "responsibility",
-            "respond"
-          ],
-          "explanation": "Cụm cố định \"be responsible for\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Neither the manager nor the employees ___ aware of the schedule change.",
-          "choices": [
-            "were",
-            "was",
-            "is",
-            "be"
-          ],
-          "explanation": "Với cấu trúc \"neither...nor\", động từ chia theo chủ ngữ gần nhất (employees - số nhiều)."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new policy will take effect ___ the beginning of next month.",
-          "choices": [
-            "at",
-            "on",
-            "in",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "By the time the CEO arrives, the presentation ___ already finished.",
-          "choices": [
-            "will have",
-            "will be",
-            "has",
-            "had"
-          ],
-          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
