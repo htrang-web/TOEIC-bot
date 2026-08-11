@@ -65,9 +65,12 @@
         "example": "He signed a waiver before joining the tour."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "10:45",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       14,
       49,
@@ -81,5 +84,123 @@
       20
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-11T11:51:02.399831+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "Employees who arrive late ___ notify their supervisor immediately.",
+          "choices": [
+            "should",
+            "should to",
+            "are should",
+            "shoulding"
+          ],
+          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The negotiation process took longer ___ anyone had anticipated.",
+          "choices": [
+            "than",
+            "as",
+            "that",
+            "then"
+          ],
+          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The HR department is responsible for ___ new employees.",
+          "choices": [
+            "training",
+            "train",
+            "trains",
+            "trained"
+          ],
+          "explanation": "Sau giới từ \"for\" cần V-ing (danh động từ)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
+          "choices": [
+            "will",
+            "is",
+            "has",
+            "was"
+          ],
+          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The committee is reviewing several proposals ___ improving workplace safety.",
+          "choices": [
+            "for",
+            "of",
+            "about",
+            "on"
+          ],
+          "explanation": "Cụm \"proposals for + V-ing\" nghĩa là đề xuất nhằm mục đích gì."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The consultant recommended ___ the marketing strategy entirely.",
+          "choices": [
+            "revising",
+            "revise",
+            "to revise",
+            "revised"
+          ],
+          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager will be ___ for approving all expense reports.",
+          "choices": [
+            "responsible",
+            "responsibly",
+            "responsibility",
+            "respond"
+          ],
+          "explanation": "Cụm cố định \"be responsible for\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Neither the manager nor the employees ___ aware of the schedule change.",
+          "choices": [
+            "were",
+            "was",
+            "is",
+            "be"
+          ],
+          "explanation": "Với cấu trúc \"neither...nor\", động từ chia theo chủ ngữ gần nhất (employees - số nhiều)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new policy will take effect ___ the beginning of next month.",
+          "choices": [
+            "at",
+            "on",
+            "in",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "By the time the CEO arrives, the presentation ___ already finished.",
+          "choices": [
+            "will have",
+            "will be",
+            "has",
+            "had"
+          ],
+          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
+        }
+      ]
+    }
+  ]
 }
