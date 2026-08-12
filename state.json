@@ -65,9 +65,12 @@
         "example": "An external audit will be conducted next month."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "11:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       4,
       53,
@@ -81,5 +84,123 @@
       34
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-12T11:29:44.855900+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "If the shipment ___ on time, we will lose the client.",
+          "choices": [
+            "doesn't arrive",
+            "won't arrive",
+            "isn't arriving",
+            "hasn't arrived"
+          ],
+          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, mệnh đề chính dùng will."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client was pleased ___ the quality of the final product.",
+          "choices": [
+            "with",
+            "for",
+            "to",
+            "about"
+          ],
+          "explanation": "Cụm cố định \"be pleased with something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The staff were given clear instructions ___ how to use the new system.",
+          "choices": [
+            "on",
+            "of",
+            "for",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"instructions on how to...\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report should be submitted ___ the end of the fiscal year.",
+          "choices": [
+            "before",
+            "since",
+            "for",
+            "during"
+          ],
+          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The department head ___ several changes to improve efficiency.",
+          "choices": [
+            "has proposed",
+            "propose",
+            "proposing",
+            "proposal"
+          ],
+          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager asked her assistant ___ the documents before the meeting.",
+          "choices": [
+            "to organize",
+            "organize",
+            "organizing",
+            "organized"
+          ],
+          "explanation": "Cấu trúc \"ask someone to do something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The negotiation process took longer ___ anyone had anticipated.",
+          "choices": [
+            "than",
+            "as",
+            "that",
+            "then"
+          ],
+          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new regulations ___ affect small businesses more than large corporations.",
+          "choices": [
+            "will likely",
+            "likely will",
+            "will be likely",
+            "is likely"
+          ],
+          "explanation": "Trạng từ \"likely\" thường đứng giữa trợ động từ \"will\" và động từ chính."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report contains ___ information than we expected.",
+          "choices": [
+            "more",
+            "most",
+            "much",
+            "many"
+          ],
+          "explanation": "So sánh hơn với danh từ không đếm được \"information\" dùng \"more\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager insisted that the report ___ revised before submission.",
+          "choices": [
+            "be",
+            "is",
+            "was",
+            "being"
+          ],
+          "explanation": "Sau \"insist that\" trong câu giả định trang trọng, dùng động từ nguyên mẫu \"be\"."
+        }
+      ]
+    }
+  ]
 }
