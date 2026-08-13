@@ -65,9 +65,13 @@
         "example": "The onboarding process takes about one week."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10,
+      12
+    ],
     "grammar_send_time": "12:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       42,
       43,
@@ -81,5 +85,123 @@
       11
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-13T12:23:17.967905+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "This is one of the ___ effective marketing strategies we have used.",
+          "choices": [
+            "most",
+            "more",
+            "much",
+            "very"
+          ],
+          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The staff were given clear instructions ___ how to use the new system.",
+          "choices": [
+            "on",
+            "of",
+            "for",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"instructions on how to...\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
+          "choices": [
+            "proceeded",
+            "proceeding",
+            "to proceed",
+            "proceeds"
+          ],
+          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
+          "choices": [
+            "will",
+            "is",
+            "has",
+            "was"
+          ],
+          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "It is essential that all staff ___ the new safety guidelines.",
+          "choices": [
+            "follow",
+            "follows",
+            "following",
+            "followed"
+          ],
+          "explanation": "Câu giả định sau \"it is essential that\" dùng động từ nguyên mẫu."
+        },
+        {
+          "correct_letter": "B",
+          "question": "Ms. Tran has worked at this company ___ 2019.",
+          "choices": [
+            "for",
+            "since",
+            "during",
+            "while"
+          ],
+          "explanation": "\"Since + mốc thời gian\" (2019) diễn tả hành động bắt đầu từ thời điểm đó tới nay."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees are required to submit their timesheets ___ Friday afternoon.",
+          "choices": [
+            "by",
+            "until",
+            "since",
+            "from"
+          ],
+          "explanation": "\"By\" mang nghĩa hạn chót (deadline) — phải nộp trước hoặc đúng thời điểm đó."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The negotiation process took longer ___ anyone had anticipated.",
+          "choices": [
+            "than",
+            "as",
+            "that",
+            "then"
+          ],
+          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's profits have grown steadily ___ the past five years.",
+          "choices": [
+            "over",
+            "since",
+            "at",
+            "by"
+          ],
+          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
+        },
+        {
+          "correct_letter": "A",
+          "question": "She is responsible ___ managing the entire logistics department.",
+          "choices": [
+            "for",
+            "to",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
+        }
+      ]
+    }
+  ]
 }
