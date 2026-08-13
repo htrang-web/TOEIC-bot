@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-13",
-  "vocab_cursor": 38,
+  "current_day": "2026-08-14",
+  "vocab_cursor": 48,
   "today": {
     "vocab_words": [
       {
-        "index": 28,
-        "word": "surplus",
-        "meaning": "thặng dư",
-        "example": "The company reported a budget surplus this year."
+        "index": 38,
+        "word": "appraisal",
+        "meaning": "đánh giá (hiệu suất làm việc)",
+        "example": "Performance appraisals are held twice a year."
       },
       {
-        "index": 29,
-        "word": "asset",
-        "meaning": "tài sản",
-        "example": "Real estate is considered a valuable asset."
+        "index": 39,
+        "word": "resign",
+        "meaning": "từ chức",
+        "example": "She decided to resign after ten years."
       },
       {
-        "index": 30,
-        "word": "campaign",
-        "meaning": "chiến dịch (quảng cáo, tiếp thị)",
-        "example": "The marketing campaign launched successfully."
+        "index": 40,
+        "word": "probation",
+        "meaning": "thời gian thử việc",
+        "example": "New hires undergo a three-month probation period."
       },
       {
-        "index": 31,
-        "word": "target audience",
-        "meaning": "đối tượng khách hàng mục tiêu",
-        "example": "Our target audience is young professionals."
+        "index": 41,
+        "word": "candidate",
+        "meaning": "ứng viên",
+        "example": "The candidate impressed the interview panel."
       },
       {
-        "index": 32,
-        "word": "endorsement",
-        "meaning": "sự chứng thực, bảo trợ",
-        "example": "The brand secured a celebrity endorsement."
+        "index": 42,
+        "word": "complaint",
+        "meaning": "lời phàn nàn, khiếu nại",
+        "example": "The company handled the complaint promptly."
       },
       {
-        "index": 33,
-        "word": "discount",
-        "meaning": "giảm giá",
-        "example": "Customers receive a discount for early payment."
+        "index": 43,
+        "word": "refund",
+        "meaning": "hoàn tiền",
+        "example": "Customers can request a refund within 30 days."
       },
       {
-        "index": 34,
-        "word": "brochure",
-        "meaning": "tập gấp quảng cáo",
-        "example": "The brochure describes all our services."
+        "index": 44,
+        "word": "inquiry",
+        "meaning": "yêu cầu/câu hỏi thắc mắc",
+        "example": "We received an inquiry about the product warranty."
       },
       {
-        "index": 35,
-        "word": "outreach",
-        "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
-        "example": "The team increased its community outreach efforts."
+        "index": 45,
+        "word": "feedback",
+        "meaning": "phản hồi, ý kiến đóng góp",
+        "example": "Customer feedback helps us improve our service."
       },
       {
-        "index": 36,
-        "word": "applicant",
-        "meaning": "người nộp đơn ứng tuyển",
-        "example": "Over fifty applicants applied for the position."
+        "index": 46,
+        "word": "courteous",
+        "meaning": "lịch sự, nhã nhặn",
+        "example": "The staff were courteous and helpful."
       },
       {
-        "index": 37,
-        "word": "onboarding",
-        "meaning": "quá trình hòa nhập nhân viên mới",
-        "example": "The onboarding process takes about one week."
+        "index": 47,
+        "word": "resolve",
+        "meaning": "giải quyết (vấn đề)",
+        "example": "The team worked to resolve the issue quickly."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "12:15",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "19:15",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      42,
+      50,
+      33,
+      41,
       43,
-      8,
-      9,
-      28,
-      1,
-      2,
+      46,
+      10,
       49,
-      21,
+      19,
+      16,
       11
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-13T12:23:17.967905+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "This is one of the ___ effective marketing strategies we have used.",
-          "choices": [
-            "most",
-            "more",
-            "much",
-            "very"
-          ],
-          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The staff were given clear instructions ___ how to use the new system.",
-          "choices": [
-            "on",
-            "of",
-            "for",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"instructions on how to...\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
-          "choices": [
-            "proceeded",
-            "proceeding",
-            "to proceed",
-            "proceeds"
-          ],
-          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
-          "choices": [
-            "will",
-            "is",
-            "has",
-            "was"
-          ],
-          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "It is essential that all staff ___ the new safety guidelines.",
-          "choices": [
-            "follow",
-            "follows",
-            "following",
-            "followed"
-          ],
-          "explanation": "Câu giả định sau \"it is essential that\" dùng động từ nguyên mẫu."
-        },
-        {
-          "correct_letter": "B",
-          "question": "Ms. Tran has worked at this company ___ 2019.",
-          "choices": [
-            "for",
-            "since",
-            "during",
-            "while"
-          ],
-          "explanation": "\"Since + mốc thời gian\" (2019) diễn tả hành động bắt đầu từ thời điểm đó tới nay."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Employees are required to submit their timesheets ___ Friday afternoon.",
-          "choices": [
-            "by",
-            "until",
-            "since",
-            "from"
-          ],
-          "explanation": "\"By\" mang nghĩa hạn chót (deadline) — phải nộp trước hoặc đúng thời điểm đó."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The negotiation process took longer ___ anyone had anticipated.",
-          "choices": [
-            "than",
-            "as",
-            "that",
-            "then"
-          ],
-          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's profits have grown steadily ___ the past five years.",
-          "choices": [
-            "over",
-            "since",
-            "at",
-            "by"
-          ],
-          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
-        },
-        {
-          "correct_letter": "A",
-          "question": "She is responsible ___ managing the entire logistics department.",
-          "choices": [
-            "for",
-            "to",
-            "with",
-            "at"
-          ],
-          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
