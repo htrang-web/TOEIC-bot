@@ -73,7 +73,7 @@
       16
     ],
     "grammar_send_time": "19:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       50,
       33,
@@ -87,5 +87,123 @@
       11
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-14T22:10:16.171766+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The manager will be ___ for approving all expense reports.",
+          "choices": [
+            "responsible",
+            "responsibly",
+            "responsibility",
+            "respond"
+          ],
+          "explanation": "Cụm cố định \"be responsible for\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The seminar covers topics ___ ranging from finance to marketing.",
+          "choices": [
+            "",
+            "which",
+            "who",
+            "whom"
+          ],
+          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The product needs to be tested thoroughly ___ it is released.",
+          "choices": [
+            "before",
+            "despite",
+            "during",
+            "for"
+          ],
+          "explanation": "Ngữ cảnh cần kiểm tra trước khi phát hành, dùng liên từ \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The staff were given clear instructions ___ how to use the new system.",
+          "choices": [
+            "on",
+            "of",
+            "for",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"instructions on how to...\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The board members ___ discussing the proposal when the fire alarm went off.",
+          "choices": [
+            "were",
+            "was",
+            "have been",
+            "had"
+          ],
+          "explanation": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra thì bị gián đoạn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report contains ___ information than we expected.",
+          "choices": [
+            "more",
+            "most",
+            "much",
+            "many"
+          ],
+          "explanation": "So sánh hơn với danh từ không đếm được \"information\" dùng \"more\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The negotiation process took longer ___ anyone had anticipated.",
+          "choices": [
+            "than",
+            "as",
+            "that",
+            "then"
+          ],
+          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The number of customer complaints has ___ decreased since the new policy.",
+          "choices": [
+            "significantly",
+            "significant",
+            "significance",
+            "signify"
+          ],
+          "explanation": "Cần trạng từ (adverb) để bổ nghĩa cho động từ \"decreased\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The training session was ___ informative that attendees asked for a follow-up.",
+          "choices": [
+            "so",
+            "such",
+            "too",
+            "very"
+          ],
+          "explanation": "Cấu trúc \"so + adj + that\" diễn tả kết quả."
+        },
+        {
+          "correct_letter": "A",
+          "question": "She is responsible ___ managing the entire logistics department.",
+          "choices": [
+            "for",
+            "to",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
+        }
+      ]
+    }
+  ]
 }
