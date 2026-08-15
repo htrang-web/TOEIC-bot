@@ -67,7 +67,8 @@
     ],
     "vocab_slots_sent": [
       8,
-      10
+      10,
+      12
     ],
     "grammar_send_time": "18:45",
     "grammar_sent": false,
