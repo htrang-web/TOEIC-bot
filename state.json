@@ -65,7 +65,10 @@
         "example": "The technician helped troubleshoot the network issue."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "18:45",
     "grammar_sent": false,
     "grammar_quiz_indices": [
