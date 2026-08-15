@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-15",
-  "vocab_cursor": 58,
+  "current_day": "2026-08-16",
+  "vocab_cursor": 6,
   "today": {
     "vocab_words": [
       {
-        "index": 48,
-        "word": "inventory",
-        "meaning": "hàng tồn kho",
-        "example": "The warehouse conducts inventory checks monthly."
+        "index": 58,
+        "word": "compatible",
+        "meaning": "tương thích",
+        "example": "The new printer is compatible with most devices."
       },
       {
-        "index": 49,
-        "word": "shipment",
-        "meaning": "lô hàng (vận chuyển)",
-        "example": "The shipment is expected to arrive next week."
+        "index": 59,
+        "word": "database",
+        "meaning": "cơ sở dữ liệu",
+        "example": "Customer records are stored in a secure database."
       },
       {
-        "index": 50,
-        "word": "defective",
-        "meaning": "bị lỗi, khiếm khuyết",
-        "example": "Defective items are returned to the manufacturer."
+        "index": 60,
+        "word": "bankruptcy",
+        "meaning": "phá sản",
+        "example": "The company went from near bankruptcy to a high level of profitability"
       },
       {
-        "index": 51,
-        "word": "supplier",
-        "meaning": "nhà cung cấp",
-        "example": "We switched to a more reliable supplier."
+        "index": 61,
+        "word": "bulky",
+        "meaning": "cồng kềnh, đồ sộ",
+        "example": "Bulky items are not allowed"
       },
       {
-        "index": 52,
-        "word": "logistics",
-        "meaning": "hậu cần, công tác vận chuyển",
-        "example": "The logistics team coordinates all deliveries."
+        "index": 0,
+        "word": "agenda",
+        "meaning": "chương trình nghị sự",
+        "example": "Please review the agenda before tomorrow's meeting."
       },
       {
-        "index": 53,
-        "word": "assembly line",
-        "meaning": "dây chuyền lắp ráp",
-        "example": "The factory upgraded its assembly line last year."
+        "index": 1,
+        "word": "correspondence",
+        "meaning": "thư từ, thư tín",
+        "example": "All correspondence with clients must be archived."
       },
       {
-        "index": 54,
-        "word": "upgrade",
-        "meaning": "nâng cấp",
-        "example": "The company plans to upgrade its software system."
+        "index": 2,
+        "word": "memorandum",
+        "meaning": "bản ghi nhớ nội bộ",
+        "example": "The manager sent a memorandum about the new dress code."
       },
       {
-        "index": 55,
-        "word": "malfunction",
-        "meaning": "trục trặc, hoạt động sai",
-        "example": "A malfunction caused the server to shut down."
+        "index": 3,
+        "word": "stationery",
+        "meaning": "văn phòng phẩm",
+        "example": "We need to order more stationery for the office."
       },
       {
-        "index": 56,
-        "word": "encryption",
-        "meaning": "mã hóa (dữ liệu)",
-        "example": "All data is protected by strong encryption."
+        "index": 4,
+        "word": "filing",
+        "meaning": "việc lưu trữ hồ sơ",
+        "example": "The filing system was reorganized last month."
       },
       {
-        "index": 57,
-        "word": "troubleshoot",
-        "meaning": "khắc phục sự cố",
-        "example": "The technician helped troubleshoot the network issue."
+        "index": 5,
+        "word": "itinerary",
+        "meaning": "lịch trình (chuyến đi)",
+        "example": "Her itinerary includes three cities in five days."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "18:45",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "15:45",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      26,
-      45,
-      48,
+      31,
+      42,
+      28,
+      38,
+      40,
       3,
-      30,
-      9,
-      13,
-      21,
-      58,
-      22
+      55,
+      24,
+      43,
+      39
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-15T19:00:06.056417+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "She has been working on this project ___ three months.",
-          "choices": [
-            "for",
-            "since",
-            "from",
-            "at"
-          ],
-          "explanation": "\"For + khoảng thời gian\" (three months) dùng với thì hiện tại hoàn thành tiếp diễn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The workshop will be held ___ further notice.",
-          "choices": [
-            "until",
-            "by",
-            "at",
-            "since"
-          ],
-          "explanation": "Cụm cố định \"until further notice\" nghĩa là cho đến khi có thông báo mới."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Please make sure the report is ___ accurate before submission.",
-          "choices": [
-            "completely",
-            "complete",
-            "completion",
-            "completing"
-          ],
-          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new policy will take effect ___ the beginning of next month.",
-          "choices": [
-            "at",
-            "on",
-            "in",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The technician repaired the machine ___ than expected.",
-          "choices": [
-            "faster",
-            "fast",
-            "fastest",
-            "more fast"
-          ],
-          "explanation": "So sánh hơn của tính từ ngắn \"fast\" là \"faster\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
-          "choices": [
-            "will",
-            "is",
-            "has",
-            "was"
-          ],
-          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "___ the delay, the project was completed under budget.",
-          "choices": [
-            "Despite",
-            "Although",
-            "Because",
-            "Since"
-          ],
-          "explanation": "\"Despite\" + cụm danh từ, không phải mệnh đề đầy đủ như \"although\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's profits have grown steadily ___ the past five years.",
-          "choices": [
-            "over",
-            "since",
-            "at",
-            "by"
-          ],
-          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The results of the survey were ___ surprising to the marketing team.",
-          "choices": [
-            "quite",
-            "quiet",
-            "quit",
-            "quite a"
-          ],
-          "explanation": "\"Quite\" là trạng từ nghĩa \"khá\", bổ nghĩa cho tính từ \"surprising\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "All visitors must sign in ___ entering the building.",
-          "choices": [
-            "before",
-            "after",
-            "during",
-            "while"
-          ],
-          "explanation": "Ngữ nghĩa yêu cầu ký tên trước khi vào tòa nhà nên dùng \"before\"."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
