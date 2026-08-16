@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-16",
-  "vocab_cursor": 6,
+  "current_day": "2026-08-17",
+  "vocab_cursor": 16,
   "today": {
     "vocab_words": [
       {
-        "index": 58,
-        "word": "compatible",
-        "meaning": "tương thích",
-        "example": "The new printer is compatible with most devices."
+        "index": 6,
+        "word": "postpone",
+        "meaning": "hoãn lại",
+        "example": "The board decided to postpone the annual meeting."
       },
       {
-        "index": 59,
-        "word": "database",
-        "meaning": "cơ sở dữ liệu",
-        "example": "Customer records are stored in a secure database."
+        "index": 7,
+        "word": "attendee",
+        "meaning": "người tham dự",
+        "example": "Each attendee received a printed handout."
       },
       {
-        "index": 60,
-        "word": "bankruptcy",
-        "meaning": "phá sản",
-        "example": "The company went from near bankruptcy to a high level of profitability"
+        "index": 8,
+        "word": "consensus",
+        "meaning": "sự đồng thuận",
+        "example": "The team reached a consensus on the new schedule."
       },
       {
-        "index": 61,
-        "word": "bulky",
-        "meaning": "cồng kềnh, đồ sộ",
-        "example": "Bulky items are not allowed"
+        "index": 9,
+        "word": "minutes",
+        "meaning": "biên bản cuộc họp",
+        "example": "Could you take the minutes of today's meeting?"
       },
       {
-        "index": 0,
-        "word": "agenda",
-        "meaning": "chương trình nghị sự",
-        "example": "Please review the agenda before tomorrow's meeting."
+        "index": 10,
+        "word": "brief",
+        "meaning": "thông báo/tóm tắt ngắn gọn",
+        "example": "The manager will brief the staff at 9 a.m."
       },
       {
-        "index": 1,
-        "word": "correspondence",
-        "meaning": "thư từ, thư tín",
-        "example": "All correspondence with clients must be archived."
+        "index": 11,
+        "word": "facilitate",
+        "meaning": "điều phối, tạo điều kiện thuận lợi",
+        "example": "She was asked to facilitate the discussion."
       },
       {
-        "index": 2,
-        "word": "memorandum",
-        "meaning": "bản ghi nhớ nội bộ",
-        "example": "The manager sent a memorandum about the new dress code."
+        "index": 12,
+        "word": "clause",
+        "meaning": "điều khoản (hợp đồng)",
+        "example": "This clause outlines the termination conditions."
       },
       {
-        "index": 3,
-        "word": "stationery",
-        "meaning": "văn phòng phẩm",
-        "example": "We need to order more stationery for the office."
+        "index": 13,
+        "word": "liability",
+        "meaning": "trách nhiệm pháp lý",
+        "example": "The company denied any liability for the damage."
       },
       {
-        "index": 4,
-        "word": "filing",
-        "meaning": "việc lưu trữ hồ sơ",
-        "example": "The filing system was reorganized last month."
+        "index": 14,
+        "word": "breach",
+        "meaning": "sự vi phạm (hợp đồng, quy định)",
+        "example": "Late delivery is considered a breach of contract."
       },
       {
-        "index": 5,
-        "word": "itinerary",
-        "meaning": "lịch trình (chuyến đi)",
-        "example": "Her itinerary includes three cities in five days."
+        "index": 15,
+        "word": "amend",
+        "meaning": "sửa đổi, tu chỉnh",
+        "example": "We need to amend the agreement before signing."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "15:45",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "20:00",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
+      11,
+      46,
       31,
-      42,
-      28,
-      38,
-      40,
-      3,
+      26,
+      20,
       55,
-      24,
-      43,
-      39
+      19,
+      40,
+      34,
+      16
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-16T16:01:11.647166+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The document must be reviewed carefully ___ submitting it.",
-          "choices": [
-            "before",
-            "despite",
-            "unless",
-            "because"
-          ],
-          "explanation": "Ngữ cảnh cần trước khi nộp thì phải xem lại tài liệu, dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "This is one of the ___ effective marketing strategies we have used.",
-          "choices": [
-            "most",
-            "more",
-            "much",
-            "very"
-          ],
-          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "It is essential that all staff ___ the new safety guidelines.",
-          "choices": [
-            "follow",
-            "follows",
-            "following",
-            "followed"
-          ],
-          "explanation": "Câu giả định sau \"it is essential that\" dùng động từ nguyên mẫu."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The HR department is responsible for ___ new employees.",
-          "choices": [
-            "training",
-            "train",
-            "trains",
-            "trained"
-          ],
-          "explanation": "Sau giới từ \"for\" cần V-ing (danh động từ)."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager, along with two assistants, ___ attending the conference.",
-          "choices": [
-            "is",
-            "are",
-            "were",
-            "be"
-          ],
-          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new policy will take effect ___ the beginning of next month.",
-          "choices": [
-            "at",
-            "on",
-            "in",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The report should be submitted ___ the end of the fiscal year.",
-          "choices": [
-            "before",
-            "since",
-            "for",
-            "during"
-          ],
-          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Neither the manager nor the employees ___ aware of the schedule change.",
-          "choices": [
-            "were",
-            "was",
-            "is",
-            "be"
-          ],
-          "explanation": "Với cấu trúc \"neither...nor\", động từ chia theo chủ ngữ gần nhất (employees - số nhiều)."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The staff were given clear instructions ___ how to use the new system.",
-          "choices": [
-            "on",
-            "of",
-            "for",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"instructions on how to...\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The invoice should be paid ___ 30 days of receipt.",
-          "choices": [
-            "within",
-            "for",
-            "since",
-            "during"
-          ],
-          "explanation": "\"Within + khoảng thời gian\" nghĩa là trong vòng bao lâu."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
