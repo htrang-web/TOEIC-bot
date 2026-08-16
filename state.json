@@ -69,10 +69,11 @@
       8,
       10,
       12,
-      14
+      14,
+      16
     ],
     "grammar_send_time": "15:45",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       31,
       42,
@@ -86,5 +87,123 @@
       39
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-16T16:01:11.647166+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The document must be reviewed carefully ___ submitting it.",
+          "choices": [
+            "before",
+            "despite",
+            "unless",
+            "because"
+          ],
+          "explanation": "Ngữ cảnh cần trước khi nộp thì phải xem lại tài liệu, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "This is one of the ___ effective marketing strategies we have used.",
+          "choices": [
+            "most",
+            "more",
+            "much",
+            "very"
+          ],
+          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "It is essential that all staff ___ the new safety guidelines.",
+          "choices": [
+            "follow",
+            "follows",
+            "following",
+            "followed"
+          ],
+          "explanation": "Câu giả định sau \"it is essential that\" dùng động từ nguyên mẫu."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The HR department is responsible for ___ new employees.",
+          "choices": [
+            "training",
+            "train",
+            "trains",
+            "trained"
+          ],
+          "explanation": "Sau giới từ \"for\" cần V-ing (danh động từ)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager, along with two assistants, ___ attending the conference.",
+          "choices": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new policy will take effect ___ the beginning of next month.",
+          "choices": [
+            "at",
+            "on",
+            "in",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report should be submitted ___ the end of the fiscal year.",
+          "choices": [
+            "before",
+            "since",
+            "for",
+            "during"
+          ],
+          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Neither the manager nor the employees ___ aware of the schedule change.",
+          "choices": [
+            "were",
+            "was",
+            "is",
+            "be"
+          ],
+          "explanation": "Với cấu trúc \"neither...nor\", động từ chia theo chủ ngữ gần nhất (employees - số nhiều)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The staff were given clear instructions ___ how to use the new system.",
+          "choices": [
+            "on",
+            "of",
+            "for",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"instructions on how to...\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The invoice should be paid ___ 30 days of receipt.",
+          "choices": [
+            "within",
+            "for",
+            "since",
+            "during"
+          ],
+          "explanation": "\"Within + khoảng thời gian\" nghĩa là trong vòng bao lâu."
+        }
+      ]
+    }
+  ]
 }
