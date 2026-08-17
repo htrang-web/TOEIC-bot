@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-17",
-  "vocab_cursor": 16,
+  "current_day": "2026-08-18",
+  "vocab_cursor": 26,
   "today": {
     "vocab_words": [
       {
-        "index": 6,
-        "word": "postpone",
-        "meaning": "hoãn lại",
-        "example": "The board decided to postpone the annual meeting."
+        "index": 16,
+        "word": "binding",
+        "meaning": "có tính ràng buộc",
+        "example": "This agreement is legally binding on both parties."
       },
       {
-        "index": 7,
-        "word": "attendee",
-        "meaning": "người tham dự",
-        "example": "Each attendee received a printed handout."
+        "index": 17,
+        "word": "waiver",
+        "meaning": "sự miễn trừ (quyền lợi/nghĩa vụ)",
+        "example": "He signed a waiver before joining the tour."
       },
       {
-        "index": 8,
-        "word": "consensus",
-        "meaning": "sự đồng thuận",
-        "example": "The team reached a consensus on the new schedule."
+        "index": 18,
+        "word": "layover",
+        "meaning": "thời gian nối chuyến",
+        "example": "We have a two-hour layover in Singapore."
       },
       {
-        "index": 9,
-        "word": "minutes",
-        "meaning": "biên bản cuộc họp",
-        "example": "Could you take the minutes of today's meeting?"
+        "index": 19,
+        "word": "reimbursement",
+        "meaning": "sự hoàn trả (chi phí)",
+        "example": "Submit your receipts for reimbursement by Friday."
       },
       {
-        "index": 10,
-        "word": "brief",
-        "meaning": "thông báo/tóm tắt ngắn gọn",
-        "example": "The manager will brief the staff at 9 a.m."
+        "index": 20,
+        "word": "boarding pass",
+        "meaning": "thẻ lên máy bay",
+        "example": "Please have your boarding pass ready at the gate."
       },
       {
-        "index": 11,
-        "word": "facilitate",
-        "meaning": "điều phối, tạo điều kiện thuận lợi",
-        "example": "She was asked to facilitate the discussion."
+        "index": 21,
+        "word": "delay",
+        "meaning": "sự trì hoãn",
+        "example": "The flight delay caused him to miss the connection."
       },
       {
-        "index": 12,
-        "word": "clause",
-        "meaning": "điều khoản (hợp đồng)",
-        "example": "This clause outlines the termination conditions."
+        "index": 22,
+        "word": "fare",
+        "meaning": "giá vé",
+        "example": "The train fare has increased this year."
       },
       {
-        "index": 13,
-        "word": "liability",
-        "meaning": "trách nhiệm pháp lý",
-        "example": "The company denied any liability for the damage."
+        "index": 23,
+        "word": "customs",
+        "meaning": "hải quan",
+        "example": "All passengers must pass through customs."
       },
       {
-        "index": 14,
-        "word": "breach",
-        "meaning": "sự vi phạm (hợp đồng, quy định)",
-        "example": "Late delivery is considered a breach of contract."
+        "index": 24,
+        "word": "invoice",
+        "meaning": "hóa đơn",
+        "example": "Please send the invoice to the accounting department."
       },
       {
-        "index": 15,
-        "word": "amend",
-        "meaning": "sửa đổi, tu chỉnh",
-        "example": "We need to amend the agreement before signing."
+        "index": 25,
+        "word": "revenue",
+        "meaning": "doanh thu",
+        "example": "Revenue increased by ten percent last quarter."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "20:00",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "19:15",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      11,
-      46,
-      31,
+      23,
+      42,
+      4,
+      25,
       26,
-      20,
-      55,
-      19,
-      40,
-      34,
-      16
+      5,
+      43,
+      18,
+      45,
+      20
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-17T20:56:06.158651+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "She is responsible ___ managing the entire logistics department.",
-          "choices": [
-            "for",
-            "to",
-            "with",
-            "at"
-          ],
-          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The board members ___ discussing the proposal when the fire alarm went off.",
-          "choices": [
-            "were",
-            "was",
-            "have been",
-            "had"
-          ],
-          "explanation": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra thì bị gián đoạn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The document must be reviewed carefully ___ submitting it.",
-          "choices": [
-            "before",
-            "despite",
-            "unless",
-            "because"
-          ],
-          "explanation": "Ngữ cảnh cần trước khi nộp thì phải xem lại tài liệu, dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "She has been working on this project ___ three months.",
-          "choices": [
-            "for",
-            "since",
-            "from",
-            "at"
-          ],
-          "explanation": "\"For + khoảng thời gian\" (three months) dùng với thì hiện tại hoàn thành tiếp diễn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "By the time the CEO arrives, the presentation ___ already finished.",
-          "choices": [
-            "will have",
-            "will be",
-            "has",
-            "had"
-          ],
-          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The report should be submitted ___ the end of the fiscal year.",
-          "choices": [
-            "before",
-            "since",
-            "for",
-            "during"
-          ],
-          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The number of customer complaints has ___ decreased since the new policy.",
-          "choices": [
-            "significantly",
-            "significant",
-            "significance",
-            "signify"
-          ],
-          "explanation": "Cần trạng từ (adverb) để bổ nghĩa cho động từ \"decreased\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager, along with two assistants, ___ attending the conference.",
-          "choices": [
-            "is",
-            "are",
-            "were",
-            "be"
-          ],
-          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager insisted that the report ___ revised before submission.",
-          "choices": [
-            "be",
-            "is",
-            "was",
-            "being"
-          ],
-          "explanation": "Sau \"insist that\" trong câu giả định trang trọng, dùng động từ nguyên mẫu \"be\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The training session was ___ informative that attendees asked for a follow-up.",
-          "choices": [
-            "so",
-            "such",
-            "too",
-            "very"
-          ],
-          "explanation": "Cấu trúc \"so + adj + that\" diễn tả kết quả."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
