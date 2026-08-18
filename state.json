@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-18",
-  "vocab_cursor": 26,
+  "current_day": "2026-08-19",
+  "vocab_cursor": 36,
   "today": {
     "vocab_words": [
       {
-        "index": 16,
-        "word": "binding",
-        "meaning": "có tính ràng buộc",
-        "example": "This agreement is legally binding on both parties."
+        "index": 26,
+        "word": "expenditure",
+        "meaning": "khoản chi tiêu",
+        "example": "The report lists all expenditures for the project."
       },
       {
-        "index": 17,
-        "word": "waiver",
-        "meaning": "sự miễn trừ (quyền lợi/nghĩa vụ)",
-        "example": "He signed a waiver before joining the tour."
+        "index": 27,
+        "word": "audit",
+        "meaning": "kiểm toán",
+        "example": "An external audit will be conducted next month."
       },
       {
-        "index": 18,
-        "word": "layover",
-        "meaning": "thời gian nối chuyến",
-        "example": "We have a two-hour layover in Singapore."
+        "index": 28,
+        "word": "surplus",
+        "meaning": "thặng dư",
+        "example": "The company reported a budget surplus this year."
       },
       {
-        "index": 19,
-        "word": "reimbursement",
-        "meaning": "sự hoàn trả (chi phí)",
-        "example": "Submit your receipts for reimbursement by Friday."
+        "index": 29,
+        "word": "asset",
+        "meaning": "tài sản",
+        "example": "Real estate is considered a valuable asset."
       },
       {
-        "index": 20,
-        "word": "boarding pass",
-        "meaning": "thẻ lên máy bay",
-        "example": "Please have your boarding pass ready at the gate."
+        "index": 30,
+        "word": "campaign",
+        "meaning": "chiến dịch (quảng cáo, tiếp thị)",
+        "example": "The marketing campaign launched successfully."
       },
       {
-        "index": 21,
-        "word": "delay",
-        "meaning": "sự trì hoãn",
-        "example": "The flight delay caused him to miss the connection."
+        "index": 31,
+        "word": "target audience",
+        "meaning": "đối tượng khách hàng mục tiêu",
+        "example": "Our target audience is young professionals."
       },
       {
-        "index": 22,
-        "word": "fare",
-        "meaning": "giá vé",
-        "example": "The train fare has increased this year."
+        "index": 32,
+        "word": "endorsement",
+        "meaning": "sự chứng thực, bảo trợ",
+        "example": "The brand secured a celebrity endorsement."
       },
       {
-        "index": 23,
-        "word": "customs",
-        "meaning": "hải quan",
-        "example": "All passengers must pass through customs."
+        "index": 33,
+        "word": "discount",
+        "meaning": "giảm giá",
+        "example": "Customers receive a discount for early payment."
       },
       {
-        "index": 24,
-        "word": "invoice",
-        "meaning": "hóa đơn",
-        "example": "Please send the invoice to the accounting department."
+        "index": 34,
+        "word": "brochure",
+        "meaning": "tập gấp quảng cáo",
+        "example": "The brochure describes all our services."
       },
       {
-        "index": 25,
-        "word": "revenue",
-        "meaning": "doanh thu",
-        "example": "Revenue increased by ten percent last quarter."
+        "index": 35,
+        "word": "outreach",
+        "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
+        "example": "The team increased its community outreach efforts."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "19:15",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "21:15",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
+      9,
+      7,
+      55,
       23,
-      42,
+      27,
+      17,
+      0,
       4,
-      25,
-      26,
-      5,
-      43,
-      18,
-      45,
-      20
+      11,
+      52
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-18T21:05:19.835787+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The manager praised the team for their ___ to the project.",
-          "choices": [
-            "dedication",
-            "dedicate",
-            "dedicated",
-            "dedicating"
-          ],
-          "explanation": "Cần danh từ sau tính từ sở hữu \"their\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "This is one of the ___ effective marketing strategies we have used.",
-          "choices": [
-            "most",
-            "more",
-            "much",
-            "very"
-          ],
-          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "If the shipment ___ on time, we will lose the client.",
-          "choices": [
-            "doesn't arrive",
-            "won't arrive",
-            "isn't arriving",
-            "hasn't arrived"
-          ],
-          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, mệnh đề chính dùng will."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The proposal ___ by the board before it can be implemented.",
-          "choices": [
-            "must be approved",
-            "must approve",
-            "must approving",
-            "must approves"
-          ],
-          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "She has been working on this project ___ three months.",
-          "choices": [
-            "for",
-            "since",
-            "from",
-            "at"
-          ],
-          "explanation": "\"For + khoảng thời gian\" (three months) dùng với thì hiện tại hoàn thành tiếp diễn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager asked her assistant ___ the documents before the meeting.",
-          "choices": [
-            "to organize",
-            "organize",
-            "organizing",
-            "organized"
-          ],
-          "explanation": "Cấu trúc \"ask someone to do something\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The staff were given clear instructions ___ how to use the new system.",
-          "choices": [
-            "on",
-            "of",
-            "for",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"instructions on how to...\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The consultant recommended ___ the marketing strategy entirely.",
-          "choices": [
-            "revising",
-            "revise",
-            "to revise",
-            "revised"
-          ],
-          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The workshop will be held ___ further notice.",
-          "choices": [
-            "until",
-            "by",
-            "at",
-            "since"
-          ],
-          "explanation": "Cụm cố định \"until further notice\" nghĩa là cho đến khi có thông báo mới."
-        },
-        {
-          "correct_letter": "A",
-          "question": "By the time the CEO arrives, the presentation ___ already finished.",
-          "choices": [
-            "will have",
-            "will be",
-            "has",
-            "had"
-          ],
-          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
