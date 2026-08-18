@@ -65,7 +65,10 @@
         "example": "Revenue increased by ten percent last quarter."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "19:15",
     "grammar_sent": false,
     "grammar_quiz_indices": [
