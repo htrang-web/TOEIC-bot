@@ -73,7 +73,7 @@
       16
     ],
     "grammar_send_time": "21:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       9,
       7,
@@ -87,5 +87,123 @@
       52
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-19T22:50:38.735726+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
+          "choices": [
+            "will",
+            "is",
+            "has",
+            "was"
+          ],
+          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The committee is reviewing several proposals ___ improving workplace safety.",
+          "choices": [
+            "for",
+            "of",
+            "about",
+            "on"
+          ],
+          "explanation": "Cụm \"proposals for + V-ing\" nghĩa là đề xuất nhằm mục đích gì."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report should be submitted ___ the end of the fiscal year.",
+          "choices": [
+            "before",
+            "since",
+            "for",
+            "during"
+          ],
+          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager praised the team for their ___ to the project.",
+          "choices": [
+            "dedication",
+            "dedicate",
+            "dedicated",
+            "dedicating"
+          ],
+          "explanation": "Cần danh từ sau tính từ sở hữu \"their\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The airline apologized ___ the inconvenience caused by the delay.",
+          "choices": [
+            "for",
+            "to",
+            "about",
+            "with"
+          ],
+          "explanation": "Cụm cố định \"apologize for something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The quarterly report ___ by the finance team every three months.",
+          "choices": [
+            "is prepared",
+            "prepares",
+            "preparing",
+            "to prepare"
+          ],
+          "explanation": "Câu cần thể bị động (passive voice) vì báo cáo \"được\" chuẩn bị bởi ai đó."
+        },
+        {
+          "correct_letter": "A",
+          "question": "If the shipment ___ on time, we will lose the client.",
+          "choices": [
+            "doesn't arrive",
+            "won't arrive",
+            "isn't arriving",
+            "hasn't arrived"
+          ],
+          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, mệnh đề chính dùng will."
+        },
+        {
+          "correct_letter": "A",
+          "question": "She is responsible ___ managing the entire logistics department.",
+          "choices": [
+            "for",
+            "to",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The factory has implemented new procedures to ___ workplace accidents.",
+          "choices": [
+            "reduce",
+            "reducing",
+            "reduction",
+            "reduces"
+          ],
+          "explanation": "Sau \"to\" (mục đích) cần động từ nguyên mẫu."
+        }
+      ]
+    }
+  ]
 }
