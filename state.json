@@ -65,9 +65,12 @@
         "example": "Customer feedback helps us improve our service."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "09:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       10,
       2,
@@ -81,5 +84,123 @@
       56
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-20T10:12:11.119541+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The report contains ___ information than we expected.",
+          "choices": [
+            "more",
+            "most",
+            "much",
+            "many"
+          ],
+          "explanation": "So sánh hơn với danh từ không đếm được \"information\" dùng \"more\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees are required to submit their timesheets ___ Friday afternoon.",
+          "choices": [
+            "by",
+            "until",
+            "since",
+            "from"
+          ],
+          "explanation": "\"By\" mang nghĩa hạn chót (deadline) — phải nộp trước hoặc đúng thời điểm đó."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
+          "choices": [
+            "proceeded",
+            "proceeding",
+            "to proceed",
+            "proceeds"
+          ],
+          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client requested that the invoice ___ sent by email.",
+          "choices": [
+            "be",
+            "is",
+            "was",
+            "being"
+          ],
+          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The invoice should be paid ___ 30 days of receipt.",
+          "choices": [
+            "within",
+            "for",
+            "since",
+            "during"
+          ],
+          "explanation": "\"Within + khoảng thời gian\" nghĩa là trong vòng bao lâu."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager asked her assistant ___ the documents before the meeting.",
+          "choices": [
+            "to organize",
+            "organize",
+            "organizing",
+            "organized"
+          ],
+          "explanation": "Cấu trúc \"ask someone to do something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The technician repaired the machine ___ than expected.",
+          "choices": [
+            "faster",
+            "fast",
+            "fastest",
+            "more fast"
+          ],
+          "explanation": "So sánh hơn của tính từ ngắn \"fast\" là \"faster\"."
+        },
+        {
+          "correct_letter": "B",
+          "question": "Ms. Tran has worked at this company ___ 2019.",
+          "choices": [
+            "for",
+            "since",
+            "during",
+            "while"
+          ],
+          "explanation": "\"Since + mốc thời gian\" (2019) diễn tả hành động bắt đầu từ thời điểm đó tới nay."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The department head ___ several changes to improve efficiency.",
+          "choices": [
+            "has proposed",
+            "propose",
+            "proposing",
+            "proposal"
+          ],
+          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
+        }
+      ]
+    }
+  ]
 }
