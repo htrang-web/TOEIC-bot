@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-20",
-  "vocab_cursor": 46,
+  "current_day": "2026-08-21",
+  "vocab_cursor": 56,
   "today": {
     "vocab_words": [
       {
-        "index": 36,
-        "word": "applicant",
-        "meaning": "người nộp đơn ứng tuyển",
-        "example": "Over fifty applicants applied for the position."
+        "index": 46,
+        "word": "courteous",
+        "meaning": "lịch sự, nhã nhặn",
+        "example": "The staff were courteous and helpful."
       },
       {
-        "index": 37,
-        "word": "onboarding",
-        "meaning": "quá trình hòa nhập nhân viên mới",
-        "example": "The onboarding process takes about one week."
+        "index": 47,
+        "word": "resolve",
+        "meaning": "giải quyết (vấn đề)",
+        "example": "The team worked to resolve the issue quickly."
       },
       {
-        "index": 38,
-        "word": "appraisal",
-        "meaning": "đánh giá (hiệu suất làm việc)",
-        "example": "Performance appraisals are held twice a year."
+        "index": 48,
+        "word": "inventory",
+        "meaning": "hàng tồn kho",
+        "example": "The warehouse conducts inventory checks monthly."
       },
       {
-        "index": 39,
-        "word": "resign",
-        "meaning": "từ chức",
-        "example": "She decided to resign after ten years."
+        "index": 49,
+        "word": "shipment",
+        "meaning": "lô hàng (vận chuyển)",
+        "example": "The shipment is expected to arrive next week."
       },
       {
-        "index": 40,
-        "word": "probation",
-        "meaning": "thời gian thử việc",
-        "example": "New hires undergo a three-month probation period."
+        "index": 50,
+        "word": "defective",
+        "meaning": "bị lỗi, khiếm khuyết",
+        "example": "Defective items are returned to the manufacturer."
       },
       {
-        "index": 41,
-        "word": "candidate",
-        "meaning": "ứng viên",
-        "example": "The candidate impressed the interview panel."
+        "index": 51,
+        "word": "supplier",
+        "meaning": "nhà cung cấp",
+        "example": "We switched to a more reliable supplier."
       },
       {
-        "index": 42,
-        "word": "complaint",
-        "meaning": "lời phàn nàn, khiếu nại",
-        "example": "The company handled the complaint promptly."
+        "index": 52,
+        "word": "logistics",
+        "meaning": "hậu cần, công tác vận chuyển",
+        "example": "The logistics team coordinates all deliveries."
       },
       {
-        "index": 43,
-        "word": "refund",
-        "meaning": "hoàn tiền",
-        "example": "Customers can request a refund within 30 days."
+        "index": 53,
+        "word": "assembly line",
+        "meaning": "dây chuyền lắp ráp",
+        "example": "The factory upgraded its assembly line last year."
       },
       {
-        "index": 44,
-        "word": "inquiry",
-        "meaning": "yêu cầu/câu hỏi thắc mắc",
-        "example": "We received an inquiry about the product warranty."
+        "index": 54,
+        "word": "upgrade",
+        "meaning": "nâng cấp",
+        "example": "The company plans to upgrade its software system."
       },
       {
-        "index": 45,
-        "word": "feedback",
-        "meaning": "phản hồi, ý kiến đóng góp",
-        "example": "Customer feedback helps us improve our service."
+        "index": 55,
+        "word": "malfunction",
+        "meaning": "trục trặc, hoạt động sai",
+        "example": "A malfunction caused the server to shut down."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "09:15",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "18:30",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      10,
       2,
-      8,
-      15,
-      39,
-      17,
+      14,
+      12,
+      34,
+      35,
+      45,
+      57,
       5,
-      30,
-      1,
+      13,
       56
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-20T10:12:11.119541+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The report contains ___ information than we expected.",
-          "choices": [
-            "more",
-            "most",
-            "much",
-            "many"
-          ],
-          "explanation": "So sánh hơn với danh từ không đếm được \"information\" dùng \"more\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Employees are required to submit their timesheets ___ Friday afternoon.",
-          "choices": [
-            "by",
-            "until",
-            "since",
-            "from"
-          ],
-          "explanation": "\"By\" mang nghĩa hạn chót (deadline) — phải nộp trước hoặc đúng thời điểm đó."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
-          "choices": [
-            "proceeded",
-            "proceeding",
-            "to proceed",
-            "proceeds"
-          ],
-          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The client requested that the invoice ___ sent by email.",
-          "choices": [
-            "be",
-            "is",
-            "was",
-            "being"
-          ],
-          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The invoice should be paid ___ 30 days of receipt.",
-          "choices": [
-            "within",
-            "for",
-            "since",
-            "during"
-          ],
-          "explanation": "\"Within + khoảng thời gian\" nghĩa là trong vòng bao lâu."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Our supplier can deliver the goods ___ two business days.",
-          "choices": [
-            "within",
-            "during",
-            "for",
-            "since"
-          ],
-          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager asked her assistant ___ the documents before the meeting.",
-          "choices": [
-            "to organize",
-            "organize",
-            "organizing",
-            "organized"
-          ],
-          "explanation": "Cấu trúc \"ask someone to do something\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The technician repaired the machine ___ than expected.",
-          "choices": [
-            "faster",
-            "fast",
-            "fastest",
-            "more fast"
-          ],
-          "explanation": "So sánh hơn của tính từ ngắn \"fast\" là \"faster\"."
-        },
-        {
-          "correct_letter": "B",
-          "question": "Ms. Tran has worked at this company ___ 2019.",
-          "choices": [
-            "for",
-            "since",
-            "during",
-            "while"
-          ],
-          "explanation": "\"Since + mốc thời gian\" (2019) diễn tả hành động bắt đầu từ thời điểm đó tới nay."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The department head ___ several changes to improve efficiency.",
-          "choices": [
-            "has proposed",
-            "propose",
-            "proposing",
-            "proposal"
-          ],
-          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
