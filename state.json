@@ -73,7 +73,7 @@
       16
     ],
     "grammar_send_time": "18:30",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       2,
       14,
@@ -87,5 +87,123 @@
       56
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-21T19:02:35.561442+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "Employees are required to submit their timesheets ___ Friday afternoon.",
+          "choices": [
+            "by",
+            "until",
+            "since",
+            "from"
+          ],
+          "explanation": "\"By\" mang nghĩa hạn chót (deadline) — phải nộp trước hoặc đúng thời điểm đó."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees who arrive late ___ notify their supervisor immediately.",
+          "choices": [
+            "should",
+            "should to",
+            "are should",
+            "shoulding"
+          ],
+          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new software update improves the system's ___ significantly.",
+          "choices": [
+            "efficiency",
+            "efficient",
+            "efficiently",
+            "efficiencies"
+          ],
+          "explanation": "Cần danh từ (noun) sau tính từ sở hữu \"the system's\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager insisted that the report ___ revised before submission.",
+          "choices": [
+            "be",
+            "is",
+            "was",
+            "being"
+          ],
+          "explanation": "Sau \"insist that\" trong câu giả định trang trọng, dùng động từ nguyên mẫu \"be\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Customers can track their orders ___ our new mobile application.",
+          "choices": [
+            "through",
+            "for",
+            "of",
+            "at"
+          ],
+          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The workshop will be held ___ further notice.",
+          "choices": [
+            "until",
+            "by",
+            "at",
+            "since"
+          ],
+          "explanation": "Cụm cố định \"until further notice\" nghĩa là cho đến khi có thông báo mới."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company remains committed ___ delivering high-quality products.",
+          "choices": [
+            "to",
+            "for",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be committed to + V-ing/danh từ\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager asked her assistant ___ the documents before the meeting.",
+          "choices": [
+            "to organize",
+            "organize",
+            "organizing",
+            "organized"
+          ],
+          "explanation": "Cấu trúc \"ask someone to do something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the delay, the project was completed under budget.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Because",
+            "Since"
+          ],
+          "explanation": "\"Despite\" + cụm danh từ, không phải mệnh đề đầy đủ như \"although\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The department head ___ several changes to improve efficiency.",
+          "choices": [
+            "has proposed",
+            "propose",
+            "proposing",
+            "proposal"
+          ],
+          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
+        }
+      ]
+    }
+  ]
 }
