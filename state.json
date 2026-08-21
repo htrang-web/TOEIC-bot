@@ -65,7 +65,10 @@
         "example": "A malfunction caused the server to shut down."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "18:30",
     "grammar_sent": false,
     "grammar_quiz_indices": [
