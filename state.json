@@ -65,9 +65,12 @@
         "example": "We need to order more stationery for the office."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "08:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       25,
       41,
@@ -81,5 +84,123 @@
       21
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-22T10:07:55.401302+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The proposal ___ by the board before it can be implemented.",
+          "choices": [
+            "must be approved",
+            "must approve",
+            "must approving",
+            "must approves"
+          ],
+          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The product needs to be tested thoroughly ___ it is released.",
+          "choices": [
+            "before",
+            "despite",
+            "during",
+            "for"
+          ],
+          "explanation": "Ngữ cảnh cần kiểm tra trước khi phát hành, dùng liên từ \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "She has been working on this project ___ three months.",
+          "choices": [
+            "for",
+            "since",
+            "from",
+            "at"
+          ],
+          "explanation": "\"For + khoảng thời gian\" (three months) dùng với thì hiện tại hoàn thành tiếp diễn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report should be submitted ___ the end of the fiscal year.",
+          "choices": [
+            "before",
+            "since",
+            "for",
+            "during"
+          ],
+          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The negotiation process took longer ___ anyone had anticipated.",
+          "choices": [
+            "than",
+            "as",
+            "that",
+            "then"
+          ],
+          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The department head ___ several changes to improve efficiency.",
+          "choices": [
+            "has proposed",
+            "propose",
+            "proposing",
+            "proposal"
+          ],
+          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the delay, the project was completed under budget.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Because",
+            "Since"
+          ],
+          "explanation": "\"Despite\" + cụm danh từ, không phải mệnh đề đầy đủ như \"although\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Customers can track their orders ___ our new mobile application.",
+          "choices": [
+            "through",
+            "for",
+            "of",
+            "at"
+          ],
+          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The invoice should be paid ___ 30 days of receipt.",
+          "choices": [
+            "within",
+            "for",
+            "since",
+            "during"
+          ],
+          "explanation": "\"Within + khoảng thời gian\" nghĩa là trong vòng bao lâu."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's profits have grown steadily ___ the past five years.",
+          "choices": [
+            "over",
+            "since",
+            "at",
+            "by"
+          ],
+          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
+        }
+      ]
+    }
+  ]
 }
