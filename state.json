@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-22",
-  "vocab_cursor": 4,
+  "current_day": "2026-08-23",
+  "vocab_cursor": 14,
   "today": {
     "vocab_words": [
       {
-        "index": 56,
-        "word": "encryption",
-        "meaning": "mã hóa (dữ liệu)",
-        "example": "All data is protected by strong encryption."
+        "index": 4,
+        "word": "filing",
+        "meaning": "việc lưu trữ hồ sơ",
+        "example": "The filing system was reorganized last month."
       },
       {
-        "index": 57,
-        "word": "troubleshoot",
-        "meaning": "khắc phục sự cố",
-        "example": "The technician helped troubleshoot the network issue."
+        "index": 5,
+        "word": "itinerary",
+        "meaning": "lịch trình (chuyến đi)",
+        "example": "Her itinerary includes three cities in five days."
       },
       {
-        "index": 58,
-        "word": "compatible",
-        "meaning": "tương thích",
-        "example": "The new printer is compatible with most devices."
+        "index": 6,
+        "word": "postpone",
+        "meaning": "hoãn lại",
+        "example": "The board decided to postpone the annual meeting."
       },
       {
-        "index": 59,
-        "word": "database",
-        "meaning": "cơ sở dữ liệu",
-        "example": "Customer records are stored in a secure database."
+        "index": 7,
+        "word": "attendee",
+        "meaning": "người tham dự",
+        "example": "Each attendee received a printed handout."
       },
       {
-        "index": 60,
-        "word": "bankruptcy",
-        "meaning": "phá sản",
-        "example": "The company went from near bankruptcy to a high level of profitability"
+        "index": 8,
+        "word": "consensus",
+        "meaning": "sự đồng thuận",
+        "example": "The team reached a consensus on the new schedule."
       },
       {
-        "index": 61,
-        "word": "bulky",
-        "meaning": "cồng kềnh, đồ sộ",
-        "example": "Bulky items are not allowed"
+        "index": 9,
+        "word": "minutes",
+        "meaning": "biên bản cuộc họp",
+        "example": "Could you take the minutes of today's meeting?"
       },
       {
-        "index": 0,
-        "word": "agenda",
-        "meaning": "chương trình nghị sự",
-        "example": "Please review the agenda before tomorrow's meeting."
+        "index": 10,
+        "word": "brief",
+        "meaning": "thông báo/tóm tắt ngắn gọn",
+        "example": "The manager will brief the staff at 9 a.m."
       },
       {
-        "index": 1,
-        "word": "correspondence",
-        "meaning": "thư từ, thư tín",
-        "example": "All correspondence with clients must be archived."
+        "index": 11,
+        "word": "facilitate",
+        "meaning": "điều phối, tạo điều kiện thuận lợi",
+        "example": "She was asked to facilitate the discussion."
       },
       {
-        "index": 2,
-        "word": "memorandum",
-        "meaning": "bản ghi nhớ nội bộ",
-        "example": "The manager sent a memorandum about the new dress code."
+        "index": 12,
+        "word": "clause",
+        "meaning": "điều khoản (hợp đồng)",
+        "example": "This clause outlines the termination conditions."
       },
       {
-        "index": 3,
-        "word": "stationery",
-        "meaning": "văn phòng phẩm",
-        "example": "We need to order more stationery for the office."
+        "index": 13,
+        "word": "liability",
+        "meaning": "trách nhiệm pháp lý",
+        "example": "The company denied any liability for the damage."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
+    "vocab_slots_sent": [],
     "grammar_send_time": "08:15",
-    "grammar_sent": true,
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      25,
-      41,
-      26,
-      55,
-      49,
-      56,
-      13,
-      35,
-      39,
-      21
+      48,
+      8,
+      16,
+      14,
+      12,
+      53,
+      11,
+      5,
+      20,
+      39
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-22T10:07:55.401302+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The proposal ___ by the board before it can be implemented.",
-          "choices": [
-            "must be approved",
-            "must approve",
-            "must approving",
-            "must approves"
-          ],
-          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The product needs to be tested thoroughly ___ it is released.",
-          "choices": [
-            "before",
-            "despite",
-            "during",
-            "for"
-          ],
-          "explanation": "Ngữ cảnh cần kiểm tra trước khi phát hành, dùng liên từ \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "She has been working on this project ___ three months.",
-          "choices": [
-            "for",
-            "since",
-            "from",
-            "at"
-          ],
-          "explanation": "\"For + khoảng thời gian\" (three months) dùng với thì hiện tại hoàn thành tiếp diễn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The report should be submitted ___ the end of the fiscal year.",
-          "choices": [
-            "before",
-            "since",
-            "for",
-            "during"
-          ],
-          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The negotiation process took longer ___ anyone had anticipated.",
-          "choices": [
-            "than",
-            "as",
-            "that",
-            "then"
-          ],
-          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The department head ___ several changes to improve efficiency.",
-          "choices": [
-            "has proposed",
-            "propose",
-            "proposing",
-            "proposal"
-          ],
-          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
-        },
-        {
-          "correct_letter": "A",
-          "question": "___ the delay, the project was completed under budget.",
-          "choices": [
-            "Despite",
-            "Although",
-            "Because",
-            "Since"
-          ],
-          "explanation": "\"Despite\" + cụm danh từ, không phải mệnh đề đầy đủ như \"although\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Customers can track their orders ___ our new mobile application.",
-          "choices": [
-            "through",
-            "for",
-            "of",
-            "at"
-          ],
-          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The invoice should be paid ___ 30 days of receipt.",
-          "choices": [
-            "within",
-            "for",
-            "since",
-            "during"
-          ],
-          "explanation": "\"Within + khoảng thời gian\" nghĩa là trong vòng bao lâu."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's profits have grown steadily ___ the past five years.",
-          "choices": [
-            "over",
-            "since",
-            "at",
-            "by"
-          ],
-          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
