@@ -65,9 +65,12 @@
         "example": "The company denied any liability for the damage."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "08:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       48,
       8,
@@ -81,5 +84,123 @@
       39
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-23T10:32:05.419786+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "Please make sure the report is ___ accurate before submission.",
+          "choices": [
+            "completely",
+            "complete",
+            "completion",
+            "completing"
+          ],
+          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
+          "choices": [
+            "proceeded",
+            "proceeding",
+            "to proceed",
+            "proceeds"
+          ],
+          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The training session was ___ informative that attendees asked for a follow-up.",
+          "choices": [
+            "so",
+            "such",
+            "too",
+            "very"
+          ],
+          "explanation": "Cấu trúc \"so + adj + that\" diễn tả kết quả."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees who arrive late ___ notify their supervisor immediately.",
+          "choices": [
+            "should",
+            "should to",
+            "are should",
+            "shoulding"
+          ],
+          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new software update improves the system's ___ significantly.",
+          "choices": [
+            "efficiency",
+            "efficient",
+            "efficiently",
+            "efficiencies"
+          ],
+          "explanation": "Cần danh từ (noun) sau tính từ sở hữu \"the system's\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client was pleased ___ the quality of the final product.",
+          "choices": [
+            "with",
+            "for",
+            "to",
+            "about"
+          ],
+          "explanation": "Cụm cố định \"be pleased with something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "She is responsible ___ managing the entire logistics department.",
+          "choices": [
+            "for",
+            "to",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager asked her assistant ___ the documents before the meeting.",
+          "choices": [
+            "to organize",
+            "organize",
+            "organizing",
+            "organized"
+          ],
+          "explanation": "Cấu trúc \"ask someone to do something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "By the time the CEO arrives, the presentation ___ already finished.",
+          "choices": [
+            "will have",
+            "will be",
+            "has",
+            "had"
+          ],
+          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The invoice should be paid ___ 30 days of receipt.",
+          "choices": [
+            "within",
+            "for",
+            "since",
+            "during"
+          ],
+          "explanation": "\"Within + khoảng thời gian\" nghĩa là trong vòng bao lâu."
+        }
+      ]
+    }
+  ]
 }
