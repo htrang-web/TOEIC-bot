@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-24",
-  "vocab_cursor": 24,
+  "current_day": "2026-08-25",
+  "vocab_cursor": 34,
   "today": {
     "vocab_words": [
       {
-        "index": 14,
-        "word": "breach",
-        "meaning": "sự vi phạm (hợp đồng, quy định)",
-        "example": "Late delivery is considered a breach of contract."
+        "index": 24,
+        "word": "invoice",
+        "meaning": "hóa đơn",
+        "example": "Please send the invoice to the accounting department."
       },
       {
-        "index": 15,
-        "word": "amend",
-        "meaning": "sửa đổi, tu chỉnh",
-        "example": "We need to amend the agreement before signing."
+        "index": 25,
+        "word": "revenue",
+        "meaning": "doanh thu",
+        "example": "Revenue increased by ten percent last quarter."
       },
       {
-        "index": 16,
-        "word": "binding",
-        "meaning": "có tính ràng buộc",
-        "example": "This agreement is legally binding on both parties."
+        "index": 26,
+        "word": "expenditure",
+        "meaning": "khoản chi tiêu",
+        "example": "The report lists all expenditures for the project."
       },
       {
-        "index": 17,
-        "word": "waiver",
-        "meaning": "sự miễn trừ (quyền lợi/nghĩa vụ)",
-        "example": "He signed a waiver before joining the tour."
+        "index": 27,
+        "word": "audit",
+        "meaning": "kiểm toán",
+        "example": "An external audit will be conducted next month."
       },
       {
-        "index": 18,
-        "word": "layover",
-        "meaning": "thời gian nối chuyến",
-        "example": "We have a two-hour layover in Singapore."
+        "index": 28,
+        "word": "surplus",
+        "meaning": "thặng dư",
+        "example": "The company reported a budget surplus this year."
       },
       {
-        "index": 19,
-        "word": "reimbursement",
-        "meaning": "sự hoàn trả (chi phí)",
-        "example": "Submit your receipts for reimbursement by Friday."
+        "index": 29,
+        "word": "asset",
+        "meaning": "tài sản",
+        "example": "Real estate is considered a valuable asset."
       },
       {
-        "index": 20,
-        "word": "boarding pass",
-        "meaning": "thẻ lên máy bay",
-        "example": "Please have your boarding pass ready at the gate."
+        "index": 30,
+        "word": "campaign",
+        "meaning": "chiến dịch (quảng cáo, tiếp thị)",
+        "example": "The marketing campaign launched successfully."
       },
       {
-        "index": 21,
-        "word": "delay",
-        "meaning": "sự trì hoãn",
-        "example": "The flight delay caused him to miss the connection."
+        "index": 31,
+        "word": "target audience",
+        "meaning": "đối tượng khách hàng mục tiêu",
+        "example": "Our target audience is young professionals."
       },
       {
-        "index": 22,
-        "word": "fare",
-        "meaning": "giá vé",
-        "example": "The train fare has increased this year."
+        "index": 32,
+        "word": "endorsement",
+        "meaning": "sự chứng thực, bảo trợ",
+        "example": "The brand secured a celebrity endorsement."
       },
       {
-        "index": 23,
-        "word": "customs",
-        "meaning": "hải quan",
-        "example": "All passengers must pass through customs."
+        "index": 33,
+        "word": "discount",
+        "meaning": "giảm giá",
+        "example": "Customers receive a discount for early payment."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
+    "vocab_slots_sent": [],
     "grammar_send_time": "13:15",
-    "grammar_sent": true,
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      8,
-      4,
-      42,
-      58,
-      24,
+      34,
+      48,
+      30,
       19,
-      32,
-      47,
-      33,
-      27
+      4,
+      18,
+      13,
+      17,
+      24,
+      23
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-24T15:25:53.186120+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
-          "choices": [
-            "proceeded",
-            "proceeding",
-            "to proceed",
-            "proceeds"
-          ],
-          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "If the shipment ___ on time, we will lose the client.",
-          "choices": [
-            "doesn't arrive",
-            "won't arrive",
-            "isn't arriving",
-            "hasn't arrived"
-          ],
-          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, mệnh đề chính dùng will."
-        },
-        {
-          "correct_letter": "A",
-          "question": "This is one of the ___ effective marketing strategies we have used.",
-          "choices": [
-            "most",
-            "more",
-            "much",
-            "very"
-          ],
-          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The results of the survey were ___ surprising to the marketing team.",
-          "choices": [
-            "quite",
-            "quiet",
-            "quit",
-            "quite a"
-          ],
-          "explanation": "\"Quite\" là trạng từ nghĩa \"khá\", bổ nghĩa cho tính từ \"surprising\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Neither the manager nor the employees ___ aware of the schedule change.",
-          "choices": [
-            "were",
-            "was",
-            "is",
-            "be"
-          ],
-          "explanation": "Với cấu trúc \"neither...nor\", động từ chia theo chủ ngữ gần nhất (employees - số nhiều)."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The number of customer complaints has ___ decreased since the new policy.",
-          "choices": [
-            "significantly",
-            "significant",
-            "significance",
-            "signify"
-          ],
-          "explanation": "Cần trạng từ (adverb) để bổ nghĩa cho động từ \"decreased\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new regulations ___ affect small businesses more than large corporations.",
-          "choices": [
-            "will likely",
-            "likely will",
-            "will be likely",
-            "is likely"
-          ],
-          "explanation": "Trạng từ \"likely\" thường đứng giữa trợ động từ \"will\" và động từ chính."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company offers a ___ range of products to suit different needs.",
-          "choices": [
-            "wide",
-            "widely",
-            "width",
-            "widen"
-          ],
-          "explanation": "Cần tính từ \"wide\" để bổ nghĩa cho danh từ \"range\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The seminar covers topics ___ ranging from finance to marketing.",
-          "choices": [
-            "",
-            "which",
-            "who",
-            "whom"
-          ],
-          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The airline apologized ___ the inconvenience caused by the delay.",
-          "choices": [
-            "for",
-            "to",
-            "about",
-            "with"
-          ],
-          "explanation": "Cụm cố định \"apologize for something\"."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
