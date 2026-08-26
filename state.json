@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-26",
-  "vocab_cursor": 44,
+  "current_day": "2026-08-27",
+  "vocab_cursor": 54,
   "today": {
     "vocab_words": [
       {
-        "index": 34,
-        "word": "brochure",
-        "meaning": "tập gấp quảng cáo",
-        "example": "The brochure describes all our services."
+        "index": 44,
+        "word": "inquiry",
+        "meaning": "yêu cầu/câu hỏi thắc mắc",
+        "example": "We received an inquiry about the product warranty."
       },
       {
-        "index": 35,
-        "word": "outreach",
-        "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
-        "example": "The team increased its community outreach efforts."
+        "index": 45,
+        "word": "feedback",
+        "meaning": "phản hồi, ý kiến đóng góp",
+        "example": "Customer feedback helps us improve our service."
       },
       {
-        "index": 36,
-        "word": "applicant",
-        "meaning": "người nộp đơn ứng tuyển",
-        "example": "Over fifty applicants applied for the position."
+        "index": 46,
+        "word": "courteous",
+        "meaning": "lịch sự, nhã nhặn",
+        "example": "The staff were courteous and helpful."
       },
       {
-        "index": 37,
-        "word": "onboarding",
-        "meaning": "quá trình hòa nhập nhân viên mới",
-        "example": "The onboarding process takes about one week."
+        "index": 47,
+        "word": "resolve",
+        "meaning": "giải quyết (vấn đề)",
+        "example": "The team worked to resolve the issue quickly."
       },
       {
-        "index": 38,
-        "word": "appraisal",
-        "meaning": "đánh giá (hiệu suất làm việc)",
-        "example": "Performance appraisals are held twice a year."
+        "index": 48,
+        "word": "inventory",
+        "meaning": "hàng tồn kho",
+        "example": "The warehouse conducts inventory checks monthly."
       },
       {
-        "index": 39,
-        "word": "resign",
-        "meaning": "từ chức",
-        "example": "She decided to resign after ten years."
+        "index": 49,
+        "word": "shipment",
+        "meaning": "lô hàng (vận chuyển)",
+        "example": "The shipment is expected to arrive next week."
       },
       {
-        "index": 40,
-        "word": "probation",
-        "meaning": "thời gian thử việc",
-        "example": "New hires undergo a three-month probation period."
+        "index": 50,
+        "word": "defective",
+        "meaning": "bị lỗi, khiếm khuyết",
+        "example": "Defective items are returned to the manufacturer."
       },
       {
-        "index": 41,
-        "word": "candidate",
-        "meaning": "ứng viên",
-        "example": "The candidate impressed the interview panel."
+        "index": 51,
+        "word": "supplier",
+        "meaning": "nhà cung cấp",
+        "example": "We switched to a more reliable supplier."
       },
       {
-        "index": 42,
-        "word": "complaint",
-        "meaning": "lời phàn nàn, khiếu nại",
-        "example": "The company handled the complaint promptly."
+        "index": 52,
+        "word": "logistics",
+        "meaning": "hậu cần, công tác vận chuyển",
+        "example": "The logistics team coordinates all deliveries."
       },
       {
-        "index": 43,
-        "word": "refund",
-        "meaning": "hoàn tiền",
-        "example": "Customers can request a refund within 30 days."
+        "index": 53,
+        "word": "assembly line",
+        "meaning": "dây chuyền lắp ráp",
+        "example": "The factory upgraded its assembly line last year."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "17:00",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "18:45",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      25,
-      6,
-      11,
-      44,
-      48,
-      14,
-      37,
+      12,
+      26,
+      46,
+      23,
+      13,
+      17,
+      32,
       40,
-      57,
-      20
+      49,
+      2
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-08-26T17:08:05.459338+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The proposal ___ by the board before it can be implemented.",
-          "choices": [
-            "must be approved",
-            "must approve",
-            "must approving",
-            "must approves"
-          ],
-          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "All applicants must have ___ experience in customer service.",
-          "choices": [
-            "relevant",
-            "relevantly",
-            "relevance",
-            "relevancy"
-          ],
-          "explanation": "Cần tính từ (adjective) đứng trước danh từ \"experience\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "She is responsible ___ managing the entire logistics department.",
-          "choices": [
-            "for",
-            "to",
-            "with",
-            "at"
-          ],
-          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's success can be ___ to its strong leadership.",
-          "choices": [
-            "attributed",
-            "attribute",
-            "attributing",
-            "attributes"
-          ],
-          "explanation": "Thể bị động: \"be attributed to something\" nghĩa là được cho là do."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Please make sure the report is ___ accurate before submission.",
-          "choices": [
-            "completely",
-            "complete",
-            "completion",
-            "completing"
-          ],
-          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Employees who arrive late ___ notify their supervisor immediately.",
-          "choices": [
-            "should",
-            "should to",
-            "are should",
-            "shoulding"
-          ],
-          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "___ the budget cuts, the department managed to complete the project on time.",
-          "choices": [
-            "Despite",
-            "Although",
-            "Even though",
-            "While"
-          ],
-          "explanation": "\"Despite\" theo sau là cụm danh từ (the budget cuts), không phải mệnh đề đầy đủ."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager, along with two assistants, ___ attending the conference.",
-          "choices": [
-            "is",
-            "are",
-            "were",
-            "be"
-          ],
-          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company remains committed ___ delivering high-quality products.",
-          "choices": [
-            "to",
-            "for",
-            "with",
-            "at"
-          ],
-          "explanation": "Cụm cố định \"be committed to + V-ing/danh từ\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "By the time the CEO arrives, the presentation ___ already finished.",
-          "choices": [
-            "will have",
-            "will be",
-            "has",
-            "had"
-          ],
-          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
