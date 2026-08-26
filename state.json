@@ -69,10 +69,11 @@
       8,
       10,
       12,
-      14
+      14,
+      16
     ],
     "grammar_send_time": "17:00",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       25,
       6,
@@ -86,5 +87,123 @@
       20
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-26T17:08:05.459338+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The proposal ___ by the board before it can be implemented.",
+          "choices": [
+            "must be approved",
+            "must approve",
+            "must approving",
+            "must approves"
+          ],
+          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "All applicants must have ___ experience in customer service.",
+          "choices": [
+            "relevant",
+            "relevantly",
+            "relevance",
+            "relevancy"
+          ],
+          "explanation": "Cần tính từ (adjective) đứng trước danh từ \"experience\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "She is responsible ___ managing the entire logistics department.",
+          "choices": [
+            "for",
+            "to",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's success can be ___ to its strong leadership.",
+          "choices": [
+            "attributed",
+            "attribute",
+            "attributing",
+            "attributes"
+          ],
+          "explanation": "Thể bị động: \"be attributed to something\" nghĩa là được cho là do."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Please make sure the report is ___ accurate before submission.",
+          "choices": [
+            "completely",
+            "complete",
+            "completion",
+            "completing"
+          ],
+          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees who arrive late ___ notify their supervisor immediately.",
+          "choices": [
+            "should",
+            "should to",
+            "are should",
+            "shoulding"
+          ],
+          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the budget cuts, the department managed to complete the project on time.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Even though",
+            "While"
+          ],
+          "explanation": "\"Despite\" theo sau là cụm danh từ (the budget cuts), không phải mệnh đề đầy đủ."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager, along with two assistants, ___ attending the conference.",
+          "choices": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company remains committed ___ delivering high-quality products.",
+          "choices": [
+            "to",
+            "for",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be committed to + V-ing/danh từ\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "By the time the CEO arrives, the presentation ___ already finished.",
+          "choices": [
+            "will have",
+            "will be",
+            "has",
+            "had"
+          ],
+          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
+        }
+      ]
+    }
+  ]
 }
