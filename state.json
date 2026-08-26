@@ -65,7 +65,10 @@
         "example": "Customers can request a refund within 30 days."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "17:00",
     "grammar_sent": false,
     "grammar_quiz_indices": [
