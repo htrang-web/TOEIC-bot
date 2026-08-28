@@ -1,86 +1,84 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-28",
-  "vocab_cursor": 2,
+  "current_day": "2026-08-29",
+  "vocab_cursor": 12,
   "today": {
     "vocab_words": [
       {
-        "index": 54,
-        "word": "upgrade",
-        "meaning": "nâng cấp",
-        "example": "The company plans to upgrade its software system."
+        "index": 2,
+        "word": "memorandum",
+        "meaning": "bản ghi nhớ nội bộ",
+        "example": "The manager sent a memorandum about the new dress code."
       },
       {
-        "index": 55,
-        "word": "malfunction",
-        "meaning": "trục trặc, hoạt động sai",
-        "example": "A malfunction caused the server to shut down."
+        "index": 3,
+        "word": "stationery",
+        "meaning": "văn phòng phẩm",
+        "example": "We need to order more stationery for the office."
       },
       {
-        "index": 56,
-        "word": "encryption",
-        "meaning": "mã hóa (dữ liệu)",
-        "example": "All data is protected by strong encryption."
+        "index": 4,
+        "word": "filing",
+        "meaning": "việc lưu trữ hồ sơ",
+        "example": "The filing system was reorganized last month."
       },
       {
-        "index": 57,
-        "word": "troubleshoot",
-        "meaning": "khắc phục sự cố",
-        "example": "The technician helped troubleshoot the network issue."
+        "index": 5,
+        "word": "itinerary",
+        "meaning": "lịch trình (chuyến đi)",
+        "example": "Her itinerary includes three cities in five days."
       },
       {
-        "index": 58,
-        "word": "compatible",
-        "meaning": "tương thích",
-        "example": "The new printer is compatible with most devices."
+        "index": 6,
+        "word": "postpone",
+        "meaning": "hoãn lại",
+        "example": "The board decided to postpone the annual meeting."
       },
       {
-        "index": 59,
-        "word": "database",
-        "meaning": "cơ sở dữ liệu",
-        "example": "Customer records are stored in a secure database."
+        "index": 7,
+        "word": "attendee",
+        "meaning": "người tham dự",
+        "example": "Each attendee received a printed handout."
       },
       {
-        "index": 60,
-        "word": "bankruptcy",
-        "meaning": "phá sản",
-        "example": "The company went from near bankruptcy to a high level of profitability"
+        "index": 8,
+        "word": "consensus",
+        "meaning": "sự đồng thuận",
+        "example": "The team reached a consensus on the new schedule."
       },
       {
-        "index": 61,
-        "word": "bulky",
-        "meaning": "cồng kềnh, đồ sộ",
-        "example": "Bulky items are not allowed"
+        "index": 9,
+        "word": "minutes",
+        "meaning": "biên bản cuộc họp",
+        "example": "Could you take the minutes of today's meeting?"
       },
       {
-        "index": 0,
-        "word": "agenda",
-        "meaning": "chương trình nghị sự",
-        "example": "Please review the agenda before tomorrow's meeting."
+        "index": 10,
+        "word": "brief",
+        "meaning": "thông báo/tóm tắt ngắn gọn",
+        "example": "The manager will brief the staff at 9 a.m."
       },
       {
-        "index": 1,
-        "word": "correspondence",
-        "meaning": "thư từ, thư tín",
-        "example": "All correspondence with clients must be archived."
+        "index": 11,
+        "word": "facilitate",
+        "meaning": "điều phối, tạo điều kiện thuận lợi",
+        "example": "She was asked to facilitate the discussion."
       }
     ],
-    "vocab_slots_sent": [
-      8
-    ],
-    "grammar_send_time": "11:15",
+    "vocab_slots_sent": [],
+    "grammar_send_time": "19:30",
     "grammar_sent": false,
     "grammar_quiz_indices": [
-      19,
-      52,
-      51,
-      2,
-      44,
-      34,
-      39,
-      14,
-      15,
-      16
+      28,
+      13,
+      17,
+      16,
+      3,
+      20,
+      35,
+      37,
+      46,
+      38
     ]
   },
   "pending_quizzes": []
