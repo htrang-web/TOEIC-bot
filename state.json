@@ -1,84 +1,86 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-08-27",
-  "vocab_cursor": 54,
+  "current_day": "2026-08-28",
+  "vocab_cursor": 2,
   "today": {
     "vocab_words": [
       {
-        "index": 44,
-        "word": "inquiry",
-        "meaning": "yêu cầu/câu hỏi thắc mắc",
-        "example": "We received an inquiry about the product warranty."
+        "index": 54,
+        "word": "upgrade",
+        "meaning": "nâng cấp",
+        "example": "The company plans to upgrade its software system."
       },
       {
-        "index": 45,
-        "word": "feedback",
-        "meaning": "phản hồi, ý kiến đóng góp",
-        "example": "Customer feedback helps us improve our service."
+        "index": 55,
+        "word": "malfunction",
+        "meaning": "trục trặc, hoạt động sai",
+        "example": "A malfunction caused the server to shut down."
       },
       {
-        "index": 46,
-        "word": "courteous",
-        "meaning": "lịch sự, nhã nhặn",
-        "example": "The staff were courteous and helpful."
+        "index": 56,
+        "word": "encryption",
+        "meaning": "mã hóa (dữ liệu)",
+        "example": "All data is protected by strong encryption."
       },
       {
-        "index": 47,
-        "word": "resolve",
-        "meaning": "giải quyết (vấn đề)",
-        "example": "The team worked to resolve the issue quickly."
+        "index": 57,
+        "word": "troubleshoot",
+        "meaning": "khắc phục sự cố",
+        "example": "The technician helped troubleshoot the network issue."
       },
       {
-        "index": 48,
-        "word": "inventory",
-        "meaning": "hàng tồn kho",
-        "example": "The warehouse conducts inventory checks monthly."
+        "index": 58,
+        "word": "compatible",
+        "meaning": "tương thích",
+        "example": "The new printer is compatible with most devices."
       },
       {
-        "index": 49,
-        "word": "shipment",
-        "meaning": "lô hàng (vận chuyển)",
-        "example": "The shipment is expected to arrive next week."
+        "index": 59,
+        "word": "database",
+        "meaning": "cơ sở dữ liệu",
+        "example": "Customer records are stored in a secure database."
       },
       {
-        "index": 50,
-        "word": "defective",
-        "meaning": "bị lỗi, khiếm khuyết",
-        "example": "Defective items are returned to the manufacturer."
+        "index": 60,
+        "word": "bankruptcy",
+        "meaning": "phá sản",
+        "example": "The company went from near bankruptcy to a high level of profitability"
       },
       {
-        "index": 51,
-        "word": "supplier",
-        "meaning": "nhà cung cấp",
-        "example": "We switched to a more reliable supplier."
+        "index": 61,
+        "word": "bulky",
+        "meaning": "cồng kềnh, đồ sộ",
+        "example": "Bulky items are not allowed"
       },
       {
-        "index": 52,
-        "word": "logistics",
-        "meaning": "hậu cần, công tác vận chuyển",
-        "example": "The logistics team coordinates all deliveries."
+        "index": 0,
+        "word": "agenda",
+        "meaning": "chương trình nghị sự",
+        "example": "Please review the agenda before tomorrow's meeting."
       },
       {
-        "index": 53,
-        "word": "assembly line",
-        "meaning": "dây chuyền lắp ráp",
-        "example": "The factory upgraded its assembly line last year."
+        "index": 1,
+        "word": "correspondence",
+        "meaning": "thư từ, thư tín",
+        "example": "All correspondence with clients must be archived."
       }
     ],
-    "vocab_slots_sent": [],
-    "grammar_send_time": "18:45",
+    "vocab_slots_sent": [
+      8
+    ],
+    "grammar_send_time": "11:15",
     "grammar_sent": false,
     "grammar_quiz_indices": [
-      12,
-      26,
-      46,
-      23,
-      13,
-      17,
-      32,
-      40,
-      49,
-      2
+      19,
+      52,
+      51,
+      2,
+      44,
+      34,
+      39,
+      14,
+      15,
+      16
     ]
   },
   "pending_quizzes": []
