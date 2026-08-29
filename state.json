@@ -73,7 +73,7 @@
       16
     ],
     "grammar_send_time": "19:30",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       28,
       13,
@@ -87,5 +87,123 @@
       38
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-29T22:08:44.157217+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "It is essential that all staff ___ the new safety guidelines.",
+          "choices": [
+            "follow",
+            "follows",
+            "following",
+            "followed"
+          ],
+          "explanation": "Câu giả định sau \"it is essential that\" dùng động từ nguyên mẫu."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the delay, the project was completed under budget.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Because",
+            "Since"
+          ],
+          "explanation": "\"Despite\" + cụm danh từ, không phải mệnh đề đầy đủ như \"although\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The training session was ___ informative that attendees asked for a follow-up.",
+          "choices": [
+            "so",
+            "such",
+            "too",
+            "very"
+          ],
+          "explanation": "Cấu trúc \"so + adj + that\" diễn tả kết quả."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new policy will take effect ___ the beginning of next month.",
+          "choices": [
+            "at",
+            "on",
+            "in",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "By the time the CEO arrives, the presentation ___ already finished.",
+          "choices": [
+            "will have",
+            "will be",
+            "has",
+            "had"
+          ],
+          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Customers can track their orders ___ our new mobile application.",
+          "choices": [
+            "through",
+            "for",
+            "of",
+            "at"
+          ],
+          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the budget cuts, the department managed to complete the project on time.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Even though",
+            "While"
+          ],
+          "explanation": "\"Despite\" theo sau là cụm danh từ (the budget cuts), không phải mệnh đề đầy đủ."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The board members ___ discussing the proposal when the fire alarm went off.",
+          "choices": [
+            "were",
+            "was",
+            "have been",
+            "had"
+          ],
+          "explanation": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra thì bị gián đoạn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The HR department is responsible for ___ new employees.",
+          "choices": [
+            "training",
+            "train",
+            "trains",
+            "trained"
+          ],
+          "explanation": "Sau giới từ \"for\" cần V-ing (danh động từ)."
+        }
+      ]
+    }
+  ]
 }
