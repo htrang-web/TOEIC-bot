@@ -65,7 +65,9 @@
         "example": "The flight delay caused him to miss the connection."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8
+    ],
     "grammar_send_time": "16:15",
     "grammar_sent": false,
     "grammar_quiz_indices": [
