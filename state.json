@@ -68,10 +68,12 @@
     "vocab_slots_sent": [
       8,
       10,
-      12
+      12,
+      14,
+      16
     ],
     "grammar_send_time": "16:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       35,
       58,
@@ -85,5 +87,123 @@
       20
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-08-30T19:25:40.996131+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "Customers can track their orders ___ our new mobile application.",
+          "choices": [
+            "through",
+            "for",
+            "of",
+            "at"
+          ],
+          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The results of the survey were ___ surprising to the marketing team.",
+          "choices": [
+            "quite",
+            "quiet",
+            "quit",
+            "quite a"
+          ],
+          "explanation": "\"Quite\" là trạng từ nghĩa \"khá\", bổ nghĩa cho tính từ \"surprising\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new regulations ___ affect small businesses more than large corporations.",
+          "choices": [
+            "will likely",
+            "likely will",
+            "will be likely",
+            "is likely"
+          ],
+          "explanation": "Trạng từ \"likely\" thường đứng giữa trợ động từ \"will\" và động từ chính."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The document must be reviewed carefully ___ submitting it.",
+          "choices": [
+            "before",
+            "despite",
+            "unless",
+            "because"
+          ],
+          "explanation": "Ngữ cảnh cần trước khi nộp thì phải xem lại tài liệu, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The number of customer complaints has ___ decreased since the new policy.",
+          "choices": [
+            "significantly",
+            "significant",
+            "significance",
+            "signify"
+          ],
+          "explanation": "Cần trạng từ (adverb) để bổ nghĩa cho động từ \"decreased\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the delay, the project was completed under budget.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Because",
+            "Since"
+          ],
+          "explanation": "\"Despite\" + cụm danh từ, không phải mệnh đề đầy đủ như \"although\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
+          "choices": [
+            "proceeded",
+            "proceeding",
+            "to proceed",
+            "proceeds"
+          ],
+          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Please make sure the report is ___ accurate before submission.",
+          "choices": [
+            "completely",
+            "complete",
+            "completion",
+            "completing"
+          ],
+          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "By the time the CEO arrives, the presentation ___ already finished.",
+          "choices": [
+            "will have",
+            "will be",
+            "has",
+            "had"
+          ],
+          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
+        }
+      ]
+    }
+  ]
 }
