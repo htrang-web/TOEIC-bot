@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-09-01",
-  "vocab_cursor": 42,
+  "current_day": "2026-09-02",
+  "vocab_cursor": 52,
   "today": {
     "vocab_words": [
       {
-        "index": 32,
-        "word": "endorsement",
-        "meaning": "sự chứng thực, bảo trợ",
-        "example": "The brand secured a celebrity endorsement."
+        "index": 42,
+        "word": "complaint",
+        "meaning": "lời phàn nàn, khiếu nại",
+        "example": "The company handled the complaint promptly."
       },
       {
-        "index": 33,
-        "word": "discount",
-        "meaning": "giảm giá",
-        "example": "Customers receive a discount for early payment."
+        "index": 43,
+        "word": "refund",
+        "meaning": "hoàn tiền",
+        "example": "Customers can request a refund within 30 days."
       },
       {
-        "index": 34,
-        "word": "brochure",
-        "meaning": "tập gấp quảng cáo",
-        "example": "The brochure describes all our services."
+        "index": 44,
+        "word": "inquiry",
+        "meaning": "yêu cầu/câu hỏi thắc mắc",
+        "example": "We received an inquiry about the product warranty."
       },
       {
-        "index": 35,
-        "word": "outreach",
-        "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
-        "example": "The team increased its community outreach efforts."
+        "index": 45,
+        "word": "feedback",
+        "meaning": "phản hồi, ý kiến đóng góp",
+        "example": "Customer feedback helps us improve our service."
       },
       {
-        "index": 36,
-        "word": "applicant",
-        "meaning": "người nộp đơn ứng tuyển",
-        "example": "Over fifty applicants applied for the position."
+        "index": 46,
+        "word": "courteous",
+        "meaning": "lịch sự, nhã nhặn",
+        "example": "The staff were courteous and helpful."
       },
       {
-        "index": 37,
-        "word": "onboarding",
-        "meaning": "quá trình hòa nhập nhân viên mới",
-        "example": "The onboarding process takes about one week."
+        "index": 47,
+        "word": "resolve",
+        "meaning": "giải quyết (vấn đề)",
+        "example": "The team worked to resolve the issue quickly."
       },
       {
-        "index": 38,
-        "word": "appraisal",
-        "meaning": "đánh giá (hiệu suất làm việc)",
-        "example": "Performance appraisals are held twice a year."
+        "index": 48,
+        "word": "inventory",
+        "meaning": "hàng tồn kho",
+        "example": "The warehouse conducts inventory checks monthly."
       },
       {
-        "index": 39,
-        "word": "resign",
-        "meaning": "từ chức",
-        "example": "She decided to resign after ten years."
+        "index": 49,
+        "word": "shipment",
+        "meaning": "lô hàng (vận chuyển)",
+        "example": "The shipment is expected to arrive next week."
       },
       {
-        "index": 40,
-        "word": "probation",
-        "meaning": "thời gian thử việc",
-        "example": "New hires undergo a three-month probation period."
+        "index": 50,
+        "word": "defective",
+        "meaning": "bị lỗi, khiếm khuyết",
+        "example": "Defective items are returned to the manufacturer."
       },
       {
-        "index": 41,
-        "word": "candidate",
-        "meaning": "ứng viên",
-        "example": "The candidate impressed the interview panel."
+        "index": 51,
+        "word": "supplier",
+        "meaning": "nhà cung cấp",
+        "example": "We switched to a more reliable supplier."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "16:45",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "19:15",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      18,
-      12,
-      25,
-      7,
-      56,
+      27,
+      35,
+      17,
+      15,
+      11,
+      3,
       53,
-      49,
-      19,
+      32,
       44,
-      30
+      21
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-09-01T19:18:35.326732+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The consultant recommended ___ the marketing strategy entirely.",
-          "choices": [
-            "revising",
-            "revise",
-            "to revise",
-            "revised"
-          ],
-          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new software update improves the system's ___ significantly.",
-          "choices": [
-            "efficiency",
-            "efficient",
-            "efficiently",
-            "efficiencies"
-          ],
-          "explanation": "Cần danh từ (noun) sau tính từ sở hữu \"the system's\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The proposal ___ by the board before it can be implemented.",
-          "choices": [
-            "must be approved",
-            "must approve",
-            "must approving",
-            "must approves"
-          ],
-          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The committee is reviewing several proposals ___ improving workplace safety.",
-          "choices": [
-            "for",
-            "of",
-            "about",
-            "on"
-          ],
-          "explanation": "Cụm \"proposals for + V-ing\" nghĩa là đề xuất nhằm mục đích gì."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The department head ___ several changes to improve efficiency.",
-          "choices": [
-            "has proposed",
-            "propose",
-            "proposing",
-            "proposal"
-          ],
-          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The client was pleased ___ the quality of the final product.",
-          "choices": [
-            "with",
-            "for",
-            "to",
-            "about"
-          ],
-          "explanation": "Cụm cố định \"be pleased with something\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The negotiation process took longer ___ anyone had anticipated.",
-          "choices": [
-            "than",
-            "as",
-            "that",
-            "then"
-          ],
-          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The number of customer complaints has ___ decreased since the new policy.",
-          "choices": [
-            "significantly",
-            "significant",
-            "significance",
-            "signify"
-          ],
-          "explanation": "Cần trạng từ (adverb) để bổ nghĩa cho động từ \"decreased\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's success can be ___ to its strong leadership.",
-          "choices": [
-            "attributed",
-            "attribute",
-            "attributing",
-            "attributes"
-          ],
-          "explanation": "Thể bị động: \"be attributed to something\" nghĩa là được cho là do."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The technician repaired the machine ___ than expected.",
-          "choices": [
-            "faster",
-            "fast",
-            "fastest",
-            "more fast"
-          ],
-          "explanation": "So sánh hơn của tính từ ngắn \"fast\" là \"faster\"."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
