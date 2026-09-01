@@ -68,10 +68,12 @@
     "vocab_slots_sent": [
       8,
       10,
-      12
+      12,
+      14,
+      16
     ],
     "grammar_send_time": "16:45",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       18,
       12,
@@ -85,5 +87,123 @@
       30
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-09-01T19:18:35.326732+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The consultant recommended ___ the marketing strategy entirely.",
+          "choices": [
+            "revising",
+            "revise",
+            "to revise",
+            "revised"
+          ],
+          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new software update improves the system's ___ significantly.",
+          "choices": [
+            "efficiency",
+            "efficient",
+            "efficiently",
+            "efficiencies"
+          ],
+          "explanation": "Cần danh từ (noun) sau tính từ sở hữu \"the system's\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The proposal ___ by the board before it can be implemented.",
+          "choices": [
+            "must be approved",
+            "must approve",
+            "must approving",
+            "must approves"
+          ],
+          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The committee is reviewing several proposals ___ improving workplace safety.",
+          "choices": [
+            "for",
+            "of",
+            "about",
+            "on"
+          ],
+          "explanation": "Cụm \"proposals for + V-ing\" nghĩa là đề xuất nhằm mục đích gì."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The department head ___ several changes to improve efficiency.",
+          "choices": [
+            "has proposed",
+            "propose",
+            "proposing",
+            "proposal"
+          ],
+          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client was pleased ___ the quality of the final product.",
+          "choices": [
+            "with",
+            "for",
+            "to",
+            "about"
+          ],
+          "explanation": "Cụm cố định \"be pleased with something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The negotiation process took longer ___ anyone had anticipated.",
+          "choices": [
+            "than",
+            "as",
+            "that",
+            "then"
+          ],
+          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The number of customer complaints has ___ decreased since the new policy.",
+          "choices": [
+            "significantly",
+            "significant",
+            "significance",
+            "signify"
+          ],
+          "explanation": "Cần trạng từ (adverb) để bổ nghĩa cho động từ \"decreased\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's success can be ___ to its strong leadership.",
+          "choices": [
+            "attributed",
+            "attribute",
+            "attributing",
+            "attributes"
+          ],
+          "explanation": "Thể bị động: \"be attributed to something\" nghĩa là được cho là do."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The technician repaired the machine ___ than expected.",
+          "choices": [
+            "faster",
+            "fast",
+            "fastest",
+            "more fast"
+          ],
+          "explanation": "So sánh hơn của tính từ ngắn \"fast\" là \"faster\"."
+        }
+      ]
+    }
+  ]
 }
