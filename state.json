@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-09-02",
-  "vocab_cursor": 52,
+  "current_day": "2026-09-03",
+  "vocab_cursor": 0,
   "today": {
     "vocab_words": [
       {
-        "index": 42,
-        "word": "complaint",
-        "meaning": "lời phàn nàn, khiếu nại",
-        "example": "The company handled the complaint promptly."
+        "index": 52,
+        "word": "logistics",
+        "meaning": "hậu cần, công tác vận chuyển",
+        "example": "The logistics team coordinates all deliveries."
       },
       {
-        "index": 43,
-        "word": "refund",
-        "meaning": "hoàn tiền",
-        "example": "Customers can request a refund within 30 days."
+        "index": 53,
+        "word": "assembly line",
+        "meaning": "dây chuyền lắp ráp",
+        "example": "The factory upgraded its assembly line last year."
       },
       {
-        "index": 44,
-        "word": "inquiry",
-        "meaning": "yêu cầu/câu hỏi thắc mắc",
-        "example": "We received an inquiry about the product warranty."
+        "index": 54,
+        "word": "upgrade",
+        "meaning": "nâng cấp",
+        "example": "The company plans to upgrade its software system."
       },
       {
-        "index": 45,
-        "word": "feedback",
-        "meaning": "phản hồi, ý kiến đóng góp",
-        "example": "Customer feedback helps us improve our service."
+        "index": 55,
+        "word": "malfunction",
+        "meaning": "trục trặc, hoạt động sai",
+        "example": "A malfunction caused the server to shut down."
       },
       {
-        "index": 46,
-        "word": "courteous",
-        "meaning": "lịch sự, nhã nhặn",
-        "example": "The staff were courteous and helpful."
+        "index": 56,
+        "word": "encryption",
+        "meaning": "mã hóa (dữ liệu)",
+        "example": "All data is protected by strong encryption."
       },
       {
-        "index": 47,
-        "word": "resolve",
-        "meaning": "giải quyết (vấn đề)",
-        "example": "The team worked to resolve the issue quickly."
+        "index": 57,
+        "word": "troubleshoot",
+        "meaning": "khắc phục sự cố",
+        "example": "The technician helped troubleshoot the network issue."
       },
       {
-        "index": 48,
-        "word": "inventory",
-        "meaning": "hàng tồn kho",
-        "example": "The warehouse conducts inventory checks monthly."
+        "index": 58,
+        "word": "compatible",
+        "meaning": "tương thích",
+        "example": "The new printer is compatible with most devices."
       },
       {
-        "index": 49,
-        "word": "shipment",
-        "meaning": "lô hàng (vận chuyển)",
-        "example": "The shipment is expected to arrive next week."
+        "index": 59,
+        "word": "database",
+        "meaning": "cơ sở dữ liệu",
+        "example": "Customer records are stored in a secure database."
       },
       {
-        "index": 50,
-        "word": "defective",
-        "meaning": "bị lỗi, khiếm khuyết",
-        "example": "Defective items are returned to the manufacturer."
+        "index": 60,
+        "word": "bankruptcy",
+        "meaning": "phá sản",
+        "example": "The company went from near bankruptcy to a high level of profitability"
       },
       {
-        "index": 51,
-        "word": "supplier",
-        "meaning": "nhà cung cấp",
-        "example": "We switched to a more reliable supplier."
+        "index": 61,
+        "word": "bulky",
+        "meaning": "cồng kềnh, đồ sộ",
+        "example": "Bulky items are not allowed"
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "19:15",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "14:30",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      27,
-      35,
-      17,
-      15,
-      11,
+      7,
       3,
-      53,
-      32,
-      44,
-      21
+      40,
+      58,
+      27,
+      15,
+      48,
+      4,
+      34,
+      35
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-09-02T20:03:42.786869+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The airline apologized ___ the inconvenience caused by the delay.",
-          "choices": [
-            "for",
-            "to",
-            "about",
-            "with"
-          ],
-          "explanation": "Cụm cố định \"apologize for something\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Customers can track their orders ___ our new mobile application.",
-          "choices": [
-            "through",
-            "for",
-            "of",
-            "at"
-          ],
-          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Our supplier can deliver the goods ___ two business days.",
-          "choices": [
-            "within",
-            "during",
-            "for",
-            "since"
-          ],
-          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The client requested that the invoice ___ sent by email.",
-          "choices": [
-            "be",
-            "is",
-            "was",
-            "being"
-          ],
-          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "She is responsible ___ managing the entire logistics department.",
-          "choices": [
-            "for",
-            "to",
-            "with",
-            "at"
-          ],
-          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new policy will take effect ___ the beginning of next month.",
-          "choices": [
-            "at",
-            "on",
-            "in",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The client was pleased ___ the quality of the final product.",
-          "choices": [
-            "with",
-            "for",
-            "to",
-            "about"
-          ],
-          "explanation": "Cụm cố định \"be pleased with something\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new regulations ___ affect small businesses more than large corporations.",
-          "choices": [
-            "will likely",
-            "likely will",
-            "will be likely",
-            "is likely"
-          ],
-          "explanation": "Trạng từ \"likely\" thường đứng giữa trợ động từ \"will\" và động từ chính."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's success can be ___ to its strong leadership.",
-          "choices": [
-            "attributed",
-            "attribute",
-            "attributing",
-            "attributes"
-          ],
-          "explanation": "Thể bị động: \"be attributed to something\" nghĩa là được cho là do."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's profits have grown steadily ___ the past five years.",
-          "choices": [
-            "over",
-            "since",
-            "at",
-            "by"
-          ],
-          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
