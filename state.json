@@ -69,10 +69,11 @@
       8,
       10,
       12,
-      14
+      14,
+      16
     ],
     "grammar_send_time": "19:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       27,
       35,
@@ -86,5 +87,123 @@
       21
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-09-02T20:03:42.786869+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The airline apologized ___ the inconvenience caused by the delay.",
+          "choices": [
+            "for",
+            "to",
+            "about",
+            "with"
+          ],
+          "explanation": "Cụm cố định \"apologize for something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Customers can track their orders ___ our new mobile application.",
+          "choices": [
+            "through",
+            "for",
+            "of",
+            "at"
+          ],
+          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client requested that the invoice ___ sent by email.",
+          "choices": [
+            "be",
+            "is",
+            "was",
+            "being"
+          ],
+          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "She is responsible ___ managing the entire logistics department.",
+          "choices": [
+            "for",
+            "to",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new policy will take effect ___ the beginning of next month.",
+          "choices": [
+            "at",
+            "on",
+            "in",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client was pleased ___ the quality of the final product.",
+          "choices": [
+            "with",
+            "for",
+            "to",
+            "about"
+          ],
+          "explanation": "Cụm cố định \"be pleased with something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new regulations ___ affect small businesses more than large corporations.",
+          "choices": [
+            "will likely",
+            "likely will",
+            "will be likely",
+            "is likely"
+          ],
+          "explanation": "Trạng từ \"likely\" thường đứng giữa trợ động từ \"will\" và động từ chính."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's success can be ___ to its strong leadership.",
+          "choices": [
+            "attributed",
+            "attribute",
+            "attributing",
+            "attributes"
+          ],
+          "explanation": "Thể bị động: \"be attributed to something\" nghĩa là được cho là do."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's profits have grown steadily ___ the past five years.",
+          "choices": [
+            "over",
+            "since",
+            "at",
+            "by"
+          ],
+          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
+        }
+      ]
+    }
+  ]
 }
