@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-09-03",
-  "vocab_cursor": 0,
+  "current_day": "2026-09-04",
+  "vocab_cursor": 10,
   "today": {
     "vocab_words": [
       {
-        "index": 52,
-        "word": "logistics",
-        "meaning": "hậu cần, công tác vận chuyển",
-        "example": "The logistics team coordinates all deliveries."
+        "index": 0,
+        "word": "agenda",
+        "meaning": "chương trình nghị sự",
+        "example": "Please review the agenda before tomorrow's meeting."
       },
       {
-        "index": 53,
-        "word": "assembly line",
-        "meaning": "dây chuyền lắp ráp",
-        "example": "The factory upgraded its assembly line last year."
+        "index": 1,
+        "word": "correspondence",
+        "meaning": "thư từ, thư tín",
+        "example": "All correspondence with clients must be archived."
       },
       {
-        "index": 54,
-        "word": "upgrade",
-        "meaning": "nâng cấp",
-        "example": "The company plans to upgrade its software system."
+        "index": 2,
+        "word": "memorandum",
+        "meaning": "bản ghi nhớ nội bộ",
+        "example": "The manager sent a memorandum about the new dress code."
       },
       {
-        "index": 55,
-        "word": "malfunction",
-        "meaning": "trục trặc, hoạt động sai",
-        "example": "A malfunction caused the server to shut down."
+        "index": 3,
+        "word": "stationery",
+        "meaning": "văn phòng phẩm",
+        "example": "We need to order more stationery for the office."
       },
       {
-        "index": 56,
-        "word": "encryption",
-        "meaning": "mã hóa (dữ liệu)",
-        "example": "All data is protected by strong encryption."
+        "index": 4,
+        "word": "filing",
+        "meaning": "việc lưu trữ hồ sơ",
+        "example": "The filing system was reorganized last month."
       },
       {
-        "index": 57,
-        "word": "troubleshoot",
-        "meaning": "khắc phục sự cố",
-        "example": "The technician helped troubleshoot the network issue."
+        "index": 5,
+        "word": "itinerary",
+        "meaning": "lịch trình (chuyến đi)",
+        "example": "Her itinerary includes three cities in five days."
       },
       {
-        "index": 58,
-        "word": "compatible",
-        "meaning": "tương thích",
-        "example": "The new printer is compatible with most devices."
+        "index": 6,
+        "word": "postpone",
+        "meaning": "hoãn lại",
+        "example": "The board decided to postpone the annual meeting."
       },
       {
-        "index": 59,
-        "word": "database",
-        "meaning": "cơ sở dữ liệu",
-        "example": "Customer records are stored in a secure database."
+        "index": 7,
+        "word": "attendee",
+        "meaning": "người tham dự",
+        "example": "Each attendee received a printed handout."
       },
       {
-        "index": 60,
-        "word": "bankruptcy",
-        "meaning": "phá sản",
-        "example": "The company went from near bankruptcy to a high level of profitability"
+        "index": 8,
+        "word": "consensus",
+        "meaning": "sự đồng thuận",
+        "example": "The team reached a consensus on the new schedule."
       },
       {
-        "index": 61,
-        "word": "bulky",
-        "meaning": "cồng kềnh, đồ sộ",
-        "example": "Bulky items are not allowed"
+        "index": 9,
+        "word": "minutes",
+        "meaning": "biên bản cuộc họp",
+        "example": "Could you take the minutes of today's meeting?"
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "14:30",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "21:15",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      7,
-      3,
-      40,
-      58,
-      27,
-      15,
-      48,
-      4,
-      34,
-      35
+      51,
+      18,
+      47,
+      8,
+      0,
+      23,
+      14,
+      39,
+      29,
+      25
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-09-03T16:02:15.129152+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The committee is reviewing several proposals ___ improving workplace safety.",
-          "choices": [
-            "for",
-            "of",
-            "about",
-            "on"
-          ],
-          "explanation": "Cụm \"proposals for + V-ing\" nghĩa là đề xuất nhằm mục đích gì."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The new policy will take effect ___ the beginning of next month.",
-          "choices": [
-            "at",
-            "on",
-            "in",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager, along with two assistants, ___ attending the conference.",
-          "choices": [
-            "is",
-            "are",
-            "were",
-            "be"
-          ],
-          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The results of the survey were ___ surprising to the marketing team.",
-          "choices": [
-            "quite",
-            "quiet",
-            "quit",
-            "quite a"
-          ],
-          "explanation": "\"Quite\" là trạng từ nghĩa \"khá\", bổ nghĩa cho tính từ \"surprising\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The airline apologized ___ the inconvenience caused by the delay.",
-          "choices": [
-            "for",
-            "to",
-            "about",
-            "with"
-          ],
-          "explanation": "Cụm cố định \"apologize for something\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The client requested that the invoice ___ sent by email.",
-          "choices": [
-            "be",
-            "is",
-            "was",
-            "being"
-          ],
-          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Please make sure the report is ___ accurate before submission.",
-          "choices": [
-            "completely",
-            "complete",
-            "completion",
-            "completing"
-          ],
-          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "If the shipment ___ on time, we will lose the client.",
-          "choices": [
-            "doesn't arrive",
-            "won't arrive",
-            "isn't arriving",
-            "hasn't arrived"
-          ],
-          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, mệnh đề chính dùng will."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager insisted that the report ___ revised before submission.",
-          "choices": [
-            "be",
-            "is",
-            "was",
-            "being"
-          ],
-          "explanation": "Sau \"insist that\" trong câu giả định trang trọng, dùng động từ nguyên mẫu \"be\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Customers can track their orders ___ our new mobile application.",
-          "choices": [
-            "through",
-            "for",
-            "of",
-            "at"
-          ],
-          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
