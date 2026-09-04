@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-09-04",
-  "vocab_cursor": 10,
+  "current_day": "2026-09-05",
+  "vocab_cursor": 20,
   "today": {
     "vocab_words": [
       {
-        "index": 0,
-        "word": "agenda",
-        "meaning": "chương trình nghị sự",
-        "example": "Please review the agenda before tomorrow's meeting."
+        "index": 10,
+        "word": "brief",
+        "meaning": "thông báo/tóm tắt ngắn gọn",
+        "example": "The manager will brief the staff at 9 a.m."
       },
       {
-        "index": 1,
-        "word": "correspondence",
-        "meaning": "thư từ, thư tín",
-        "example": "All correspondence with clients must be archived."
+        "index": 11,
+        "word": "facilitate",
+        "meaning": "điều phối, tạo điều kiện thuận lợi",
+        "example": "She was asked to facilitate the discussion."
       },
       {
-        "index": 2,
-        "word": "memorandum",
-        "meaning": "bản ghi nhớ nội bộ",
-        "example": "The manager sent a memorandum about the new dress code."
+        "index": 12,
+        "word": "clause",
+        "meaning": "điều khoản (hợp đồng)",
+        "example": "This clause outlines the termination conditions."
       },
       {
-        "index": 3,
-        "word": "stationery",
-        "meaning": "văn phòng phẩm",
-        "example": "We need to order more stationery for the office."
+        "index": 13,
+        "word": "liability",
+        "meaning": "trách nhiệm pháp lý",
+        "example": "The company denied any liability for the damage."
       },
       {
-        "index": 4,
-        "word": "filing",
-        "meaning": "việc lưu trữ hồ sơ",
-        "example": "The filing system was reorganized last month."
+        "index": 14,
+        "word": "breach",
+        "meaning": "sự vi phạm (hợp đồng, quy định)",
+        "example": "Late delivery is considered a breach of contract."
       },
       {
-        "index": 5,
-        "word": "itinerary",
-        "meaning": "lịch trình (chuyến đi)",
-        "example": "Her itinerary includes three cities in five days."
+        "index": 15,
+        "word": "amend",
+        "meaning": "sửa đổi, tu chỉnh",
+        "example": "We need to amend the agreement before signing."
       },
       {
-        "index": 6,
-        "word": "postpone",
-        "meaning": "hoãn lại",
-        "example": "The board decided to postpone the annual meeting."
+        "index": 16,
+        "word": "binding",
+        "meaning": "có tính ràng buộc",
+        "example": "This agreement is legally binding on both parties."
       },
       {
-        "index": 7,
-        "word": "attendee",
-        "meaning": "người tham dự",
-        "example": "Each attendee received a printed handout."
+        "index": 17,
+        "word": "waiver",
+        "meaning": "sự miễn trừ (quyền lợi/nghĩa vụ)",
+        "example": "He signed a waiver before joining the tour."
       },
       {
-        "index": 8,
-        "word": "consensus",
-        "meaning": "sự đồng thuận",
-        "example": "The team reached a consensus on the new schedule."
+        "index": 18,
+        "word": "layover",
+        "meaning": "thời gian nối chuyến",
+        "example": "We have a two-hour layover in Singapore."
       },
       {
-        "index": 9,
-        "word": "minutes",
-        "meaning": "biên bản cuộc họp",
-        "example": "Could you take the minutes of today's meeting?"
+        "index": 19,
+        "word": "reimbursement",
+        "meaning": "sự hoàn trả (chi phí)",
+        "example": "Submit your receipts for reimbursement by Friday."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "21:15",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "19:00",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      51,
-      18,
-      47,
-      8,
-      0,
-      23,
-      14,
-      39,
       29,
-      25
+      4,
+      51,
+      56,
+      16,
+      24,
+      22,
+      9,
+      37,
+      40
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-09-04T22:06:26.607585+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "Employees are encouraged to provide feedback ___ the new policies.",
-          "choices": [
-            "regarding",
-            "regard",
-            "regarded",
-            "regards"
-          ],
-          "explanation": "\"Regarding\" là giới từ nghĩa là \"về, liên quan đến\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The consultant recommended ___ the marketing strategy entirely.",
-          "choices": [
-            "revising",
-            "revise",
-            "to revise",
-            "revised"
-          ],
-          "explanation": "\"Recommend + V-ing\" là cấu trúc đúng khi không có tân ngữ trực tiếp."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company offers a ___ range of products to suit different needs.",
-          "choices": [
-            "wide",
-            "widely",
-            "width",
-            "widen"
-          ],
-          "explanation": "Cần tính từ \"wide\" để bổ nghĩa cho danh từ \"range\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
-          "choices": [
-            "proceeded",
-            "proceeding",
-            "to proceed",
-            "proceeds"
-          ],
-          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The quarterly report ___ by the finance team every three months.",
-          "choices": [
-            "is prepared",
-            "prepares",
-            "preparing",
-            "to prepare"
-          ],
-          "explanation": "Câu cần thể bị động (passive voice) vì báo cáo \"được\" chuẩn bị bởi ai đó."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager praised the team for their ___ to the project.",
-          "choices": [
-            "dedication",
-            "dedicate",
-            "dedicated",
-            "dedicating"
-          ],
-          "explanation": "Cần danh từ sau tính từ sở hữu \"their\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Employees who arrive late ___ notify their supervisor immediately.",
-          "choices": [
-            "should",
-            "should to",
-            "are should",
-            "shoulding"
-          ],
-          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The invoice should be paid ___ 30 days of receipt.",
-          "choices": [
-            "within",
-            "for",
-            "since",
-            "during"
-          ],
-          "explanation": "\"Within + khoảng thời gian\" nghĩa là trong vòng bao lâu."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company plans to expand its operations ___ Southeast Asia next year.",
-          "choices": [
-            "into",
-            "to",
-            "at",
-            "on"
-          ],
-          "explanation": "\"Expand into + khu vực\" là cụm từ thường dùng để nói về mở rộng kinh doanh."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The proposal ___ by the board before it can be implemented.",
-          "choices": [
-            "must be approved",
-            "must approve",
-            "must approving",
-            "must approves"
-          ],
-          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
