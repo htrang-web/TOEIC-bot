@@ -69,10 +69,11 @@
       8,
       10,
       12,
-      14
+      14,
+      16
     ],
     "grammar_send_time": "19:00",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       29,
       4,
@@ -86,5 +87,123 @@
       40
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-09-05T19:02:55.705212+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The company plans to expand its operations ___ Southeast Asia next year.",
+          "choices": [
+            "into",
+            "to",
+            "at",
+            "on"
+          ],
+          "explanation": "\"Expand into + khu vực\" là cụm từ thường dùng để nói về mở rộng kinh doanh."
+        },
+        {
+          "correct_letter": "A",
+          "question": "If the shipment ___ on time, we will lose the client.",
+          "choices": [
+            "doesn't arrive",
+            "won't arrive",
+            "isn't arriving",
+            "hasn't arrived"
+          ],
+          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, mệnh đề chính dùng will."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees are encouraged to provide feedback ___ the new policies.",
+          "choices": [
+            "regarding",
+            "regard",
+            "regarded",
+            "regards"
+          ],
+          "explanation": "\"Regarding\" là giới từ nghĩa là \"về, liên quan đến\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The department head ___ several changes to improve efficiency.",
+          "choices": [
+            "has proposed",
+            "propose",
+            "proposing",
+            "proposal"
+          ],
+          "explanation": "Câu cần động từ chia ở thì hiện tại hoàn thành để diễn tả hành động vừa xảy ra."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The training session was ___ informative that attendees asked for a follow-up.",
+          "choices": [
+            "so",
+            "such",
+            "too",
+            "very"
+          ],
+          "explanation": "Cấu trúc \"so + adj + that\" diễn tả kết quả."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Neither the manager nor the employees ___ aware of the schedule change.",
+          "choices": [
+            "were",
+            "was",
+            "is",
+            "be"
+          ],
+          "explanation": "Với cấu trúc \"neither...nor\", động từ chia theo chủ ngữ gần nhất (employees - số nhiều)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "All visitors must sign in ___ entering the building.",
+          "choices": [
+            "before",
+            "after",
+            "during",
+            "while"
+          ],
+          "explanation": "Ngữ nghĩa yêu cầu ký tên trước khi vào tòa nhà nên dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
+          "choices": [
+            "will",
+            "is",
+            "has",
+            "was"
+          ],
+          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "___ the budget cuts, the department managed to complete the project on time.",
+          "choices": [
+            "Despite",
+            "Although",
+            "Even though",
+            "While"
+          ],
+          "explanation": "\"Despite\" theo sau là cụm danh từ (the budget cuts), không phải mệnh đề đầy đủ."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager, along with two assistants, ___ attending the conference.",
+          "choices": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "explanation": "Cụm \"along with...\" không ảnh hưởng tới động từ, chia theo chủ ngữ chính số ít \"the manager\"."
+        }
+      ]
+    }
+  ]
 }
