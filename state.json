@@ -65,9 +65,12 @@
         "example": "Real estate is considered a valuable asset."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "11:45",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       46,
       9,
@@ -81,5 +84,123 @@
       58
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-09-06T11:53:10.576223+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The board members ___ discussing the proposal when the fire alarm went off.",
+          "choices": [
+            "were",
+            "was",
+            "have been",
+            "had"
+          ],
+          "explanation": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra thì bị gián đoạn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The board of directors ___ meet next Tuesday to discuss the merger.",
+          "choices": [
+            "will",
+            "is",
+            "has",
+            "was"
+          ],
+          "explanation": "Diễn tả một sự kiện sẽ diễn ra trong tương lai, dùng \"will + V nguyên mẫu\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company plans to expand its operations ___ Southeast Asia next year.",
+          "choices": [
+            "into",
+            "to",
+            "at",
+            "on"
+          ],
+          "explanation": "\"Expand into + khu vực\" là cụm từ thường dùng để nói về mở rộng kinh doanh."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The quarterly report ___ by the finance team every three months.",
+          "choices": [
+            "is prepared",
+            "prepares",
+            "preparing",
+            "to prepare"
+          ],
+          "explanation": "Câu cần thể bị động (passive voice) vì báo cáo \"được\" chuẩn bị bởi ai đó."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The workshop will be held ___ further notice.",
+          "choices": [
+            "until",
+            "by",
+            "at",
+            "since"
+          ],
+          "explanation": "Cụm cố định \"until further notice\" nghĩa là cho đến khi có thông báo mới."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's revenue ___ substantially since the merger.",
+          "choices": [
+            "has increased",
+            "increases",
+            "increasing",
+            "increase"
+          ],
+          "explanation": "\"Since + mốc thời gian\" đi cùng thì hiện tại hoàn thành."
+        },
+        {
+          "correct_letter": "A",
+          "question": "All visitors must sign in ___ entering the building.",
+          "choices": [
+            "before",
+            "after",
+            "during",
+            "while"
+          ],
+          "explanation": "Ngữ nghĩa yêu cầu ký tên trước khi vào tòa nhà nên dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The training program is designed to enhance employees' ___ skills.",
+          "choices": [
+            "technical",
+            "technically",
+            "technique",
+            "technician"
+          ],
+          "explanation": "Cần tính từ đứng trước danh từ \"skills\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The seminar covers topics ___ ranging from finance to marketing.",
+          "choices": [
+            "",
+            "which",
+            "who",
+            "whom"
+          ],
+          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The results of the survey were ___ surprising to the marketing team.",
+          "choices": [
+            "quite",
+            "quiet",
+            "quit",
+            "quite a"
+          ],
+          "explanation": "\"Quite\" là trạng từ nghĩa \"khá\", bổ nghĩa cho tính từ \"surprising\"."
+        }
+      ]
+    }
+  ]
 }
