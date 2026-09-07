@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-09-07",
-  "vocab_cursor": 40,
+  "current_day": "2026-09-08",
+  "vocab_cursor": 50,
   "today": {
     "vocab_words": [
       {
-        "index": 30,
-        "word": "campaign",
-        "meaning": "chiến dịch (quảng cáo, tiếp thị)",
-        "example": "The marketing campaign launched successfully."
+        "index": 40,
+        "word": "probation",
+        "meaning": "thời gian thử việc",
+        "example": "New hires undergo a three-month probation period."
       },
       {
-        "index": 31,
-        "word": "target audience",
-        "meaning": "đối tượng khách hàng mục tiêu",
-        "example": "Our target audience is young professionals."
+        "index": 41,
+        "word": "candidate",
+        "meaning": "ứng viên",
+        "example": "The candidate impressed the interview panel."
       },
       {
-        "index": 32,
-        "word": "endorsement",
-        "meaning": "sự chứng thực, bảo trợ",
-        "example": "The brand secured a celebrity endorsement."
+        "index": 42,
+        "word": "complaint",
+        "meaning": "lời phàn nàn, khiếu nại",
+        "example": "The company handled the complaint promptly."
       },
       {
-        "index": 33,
-        "word": "discount",
-        "meaning": "giảm giá",
-        "example": "Customers receive a discount for early payment."
+        "index": 43,
+        "word": "refund",
+        "meaning": "hoàn tiền",
+        "example": "Customers can request a refund within 30 days."
       },
       {
-        "index": 34,
-        "word": "brochure",
-        "meaning": "tập gấp quảng cáo",
-        "example": "The brochure describes all our services."
+        "index": 44,
+        "word": "inquiry",
+        "meaning": "yêu cầu/câu hỏi thắc mắc",
+        "example": "We received an inquiry about the product warranty."
       },
       {
-        "index": 35,
-        "word": "outreach",
-        "meaning": "hoạt động tiếp cận (khách hàng, cộng đồng)",
-        "example": "The team increased its community outreach efforts."
+        "index": 45,
+        "word": "feedback",
+        "meaning": "phản hồi, ý kiến đóng góp",
+        "example": "Customer feedback helps us improve our service."
       },
       {
-        "index": 36,
-        "word": "applicant",
-        "meaning": "người nộp đơn ứng tuyển",
-        "example": "Over fifty applicants applied for the position."
+        "index": 46,
+        "word": "courteous",
+        "meaning": "lịch sự, nhã nhặn",
+        "example": "The staff were courteous and helpful."
       },
       {
-        "index": 37,
-        "word": "onboarding",
-        "meaning": "quá trình hòa nhập nhân viên mới",
-        "example": "The onboarding process takes about one week."
+        "index": 47,
+        "word": "resolve",
+        "meaning": "giải quyết (vấn đề)",
+        "example": "The team worked to resolve the issue quickly."
       },
       {
-        "index": 38,
-        "word": "appraisal",
-        "meaning": "đánh giá (hiệu suất làm việc)",
-        "example": "Performance appraisals are held twice a year."
+        "index": 48,
+        "word": "inventory",
+        "meaning": "hàng tồn kho",
+        "example": "The warehouse conducts inventory checks monthly."
       },
       {
-        "index": 39,
-        "word": "resign",
-        "meaning": "từ chức",
-        "example": "She decided to resign after ten years."
+        "index": 49,
+        "word": "shipment",
+        "meaning": "lô hàng (vận chuyển)",
+        "example": "The shipment is expected to arrive next week."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "15:45",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "19:15",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      33,
-      19,
-      11,
-      36,
-      29,
-      16,
-      25,
+      31,
+      49,
+      34,
       50,
-      55,
-      17
+      36,
+      23,
+      52,
+      3,
+      8,
+      45
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-09-07T17:44:34.090486+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "The seminar covers topics ___ ranging from finance to marketing.",
-          "choices": [
-            "",
-            "which",
-            "who",
-            "whom"
-          ],
-          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The number of customer complaints has ___ decreased since the new policy.",
-          "choices": [
-            "significantly",
-            "significant",
-            "significance",
-            "signify"
-          ],
-          "explanation": "Cần trạng từ (adverb) để bổ nghĩa cho động từ \"decreased\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "She is responsible ___ managing the entire logistics department.",
-          "choices": [
-            "for",
-            "to",
-            "with",
-            "at"
-          ],
-          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's revenue ___ substantially since the merger.",
-          "choices": [
-            "has increased",
-            "increases",
-            "increasing",
-            "increase"
-          ],
-          "explanation": "\"Since + mốc thời gian\" đi cùng thì hiện tại hoàn thành."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company plans to expand its operations ___ Southeast Asia next year.",
-          "choices": [
-            "into",
-            "to",
-            "at",
-            "on"
-          ],
-          "explanation": "\"Expand into + khu vực\" là cụm từ thường dùng để nói về mở rộng kinh doanh."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The training session was ___ informative that attendees asked for a follow-up.",
-          "choices": [
-            "so",
-            "such",
-            "too",
-            "very"
-          ],
-          "explanation": "Cấu trúc \"so + adj + that\" diễn tả kết quả."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The proposal ___ by the board before it can be implemented.",
-          "choices": [
-            "must be approved",
-            "must approve",
-            "must approving",
-            "must approves"
-          ],
-          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The manager will be ___ for approving all expense reports.",
-          "choices": [
-            "responsible",
-            "responsibly",
-            "responsibility",
-            "respond"
-          ],
-          "explanation": "Cụm cố định \"be responsible for\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The report should be submitted ___ the end of the fiscal year.",
-          "choices": [
-            "before",
-            "since",
-            "for",
-            "during"
-          ],
-          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Our supplier can deliver the goods ___ two business days.",
-          "choices": [
-            "within",
-            "during",
-            "for",
-            "since"
-          ],
-          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
