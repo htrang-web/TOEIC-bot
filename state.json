@@ -68,10 +68,12 @@
     "vocab_slots_sent": [
       8,
       10,
-      12
+      12,
+      14,
+      16
     ],
     "grammar_send_time": "15:45",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       33,
       19,
@@ -85,5 +87,123 @@
       17
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-09-07T17:44:34.090486+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The seminar covers topics ___ ranging from finance to marketing.",
+          "choices": [
+            "",
+            "which",
+            "who",
+            "whom"
+          ],
+          "explanation": "Không cần đại từ quan hệ vì \"ranging\" đã là dạng rút gọn của mệnh đề quan hệ."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The number of customer complaints has ___ decreased since the new policy.",
+          "choices": [
+            "significantly",
+            "significant",
+            "significance",
+            "signify"
+          ],
+          "explanation": "Cần trạng từ (adverb) để bổ nghĩa cho động từ \"decreased\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "She is responsible ___ managing the entire logistics department.",
+          "choices": [
+            "for",
+            "to",
+            "with",
+            "at"
+          ],
+          "explanation": "Cụm cố định \"be responsible for + V-ing/danh từ\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's revenue ___ substantially since the merger.",
+          "choices": [
+            "has increased",
+            "increases",
+            "increasing",
+            "increase"
+          ],
+          "explanation": "\"Since + mốc thời gian\" đi cùng thì hiện tại hoàn thành."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company plans to expand its operations ___ Southeast Asia next year.",
+          "choices": [
+            "into",
+            "to",
+            "at",
+            "on"
+          ],
+          "explanation": "\"Expand into + khu vực\" là cụm từ thường dùng để nói về mở rộng kinh doanh."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The training session was ___ informative that attendees asked for a follow-up.",
+          "choices": [
+            "so",
+            "such",
+            "too",
+            "very"
+          ],
+          "explanation": "Cấu trúc \"so + adj + that\" diễn tả kết quả."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The proposal ___ by the board before it can be implemented.",
+          "choices": [
+            "must be approved",
+            "must approve",
+            "must approving",
+            "must approves"
+          ],
+          "explanation": "Thể bị động với động từ khiếm khuyết: \"must be + V3\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager will be ___ for approving all expense reports.",
+          "choices": [
+            "responsible",
+            "responsibly",
+            "responsibility",
+            "respond"
+          ],
+          "explanation": "Cụm cố định \"be responsible for\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report should be submitted ___ the end of the fiscal year.",
+          "choices": [
+            "before",
+            "since",
+            "for",
+            "during"
+          ],
+          "explanation": "Ngữ cảnh cần nộp trước một mốc thời gian, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        }
+      ]
+    }
+  ]
 }
