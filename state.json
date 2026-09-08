@@ -73,7 +73,7 @@
       16
     ],
     "grammar_send_time": "19:15",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       31,
       49,
@@ -87,5 +87,123 @@
       45
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-09-08T20:51:33.860879+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The document must be reviewed carefully ___ submitting it.",
+          "choices": [
+            "before",
+            "despite",
+            "unless",
+            "because"
+          ],
+          "explanation": "Ngữ cảnh cần trước khi nộp thì phải xem lại tài liệu, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The negotiation process took longer ___ anyone had anticipated.",
+          "choices": [
+            "than",
+            "as",
+            "that",
+            "then"
+          ],
+          "explanation": "So sánh hơn dùng \"than\", không phải \"then\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager insisted that the report ___ revised before submission.",
+          "choices": [
+            "be",
+            "is",
+            "was",
+            "being"
+          ],
+          "explanation": "Sau \"insist that\" trong câu giả định trang trọng, dùng động từ nguyên mẫu \"be\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager will be ___ for approving all expense reports.",
+          "choices": [
+            "responsible",
+            "responsibly",
+            "responsibility",
+            "respond"
+          ],
+          "explanation": "Cụm cố định \"be responsible for\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's revenue ___ substantially since the merger.",
+          "choices": [
+            "has increased",
+            "increases",
+            "increasing",
+            "increase"
+          ],
+          "explanation": "\"Since + mốc thời gian\" đi cùng thì hiện tại hoàn thành."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager praised the team for their ___ to the project.",
+          "choices": [
+            "dedication",
+            "dedicate",
+            "dedicated",
+            "dedicating"
+          ],
+          "explanation": "Cần danh từ sau tính từ sở hữu \"their\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The factory has implemented new procedures to ___ workplace accidents.",
+          "choices": [
+            "reduce",
+            "reducing",
+            "reduction",
+            "reduces"
+          ],
+          "explanation": "Sau \"to\" (mục đích) cần động từ nguyên mẫu."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new policy will take effect ___ the beginning of next month.",
+          "choices": [
+            "at",
+            "on",
+            "in",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Despite the heavy rain, the outdoor event ___ as scheduled.",
+          "choices": [
+            "proceeded",
+            "proceeding",
+            "to proceed",
+            "proceeds"
+          ],
+          "explanation": "Câu kể lại sự việc đã xảy ra trong quá khứ nên dùng thì quá khứ đơn."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The workshop will be held ___ further notice.",
+          "choices": [
+            "until",
+            "by",
+            "at",
+            "since"
+          ],
+          "explanation": "Cụm cố định \"until further notice\" nghĩa là cho đến khi có thông báo mới."
+        }
+      ]
+    }
+  ]
 }
