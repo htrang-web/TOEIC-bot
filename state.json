@@ -68,10 +68,12 @@
     "vocab_slots_sent": [
       8,
       10,
-      12
+      12,
+      14,
+      16
     ],
     "grammar_send_time": "16:30",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       36,
       53,
@@ -85,5 +87,123 @@
       21
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-09-09T17:05:40.858104+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The company's revenue ___ substantially since the merger.",
+          "choices": [
+            "has increased",
+            "increases",
+            "increasing",
+            "increase"
+          ],
+          "explanation": "\"Since + mốc thời gian\" đi cùng thì hiện tại hoàn thành."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client was pleased ___ the quality of the final product.",
+          "choices": [
+            "with",
+            "for",
+            "to",
+            "about"
+          ],
+          "explanation": "Cụm cố định \"be pleased with something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company offers a ___ range of products to suit different needs.",
+          "choices": [
+            "wide",
+            "widely",
+            "width",
+            "widen"
+          ],
+          "explanation": "Cần tính từ \"wide\" để bổ nghĩa cho danh từ \"range\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Our supplier can deliver the goods ___ two business days.",
+          "choices": [
+            "within",
+            "during",
+            "for",
+            "since"
+          ],
+          "explanation": "\"Within\" dùng để chỉ khoảng thời gian giới hạn (trong vòng)."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The document must be reviewed carefully ___ submitting it.",
+          "choices": [
+            "before",
+            "despite",
+            "unless",
+            "because"
+          ],
+          "explanation": "Ngữ cảnh cần trước khi nộp thì phải xem lại tài liệu, dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client requested that the invoice ___ sent by email.",
+          "choices": [
+            "be",
+            "is",
+            "was",
+            "being"
+          ],
+          "explanation": "Câu giả định (subjunctive) sau \"request that\" dùng động từ nguyên mẫu \"be\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new software update improves the system's ___ significantly.",
+          "choices": [
+            "efficiency",
+            "efficient",
+            "efficiently",
+            "efficiencies"
+          ],
+          "explanation": "Cần danh từ (noun) sau tính từ sở hữu \"the system's\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "It is essential that all staff ___ the new safety guidelines.",
+          "choices": [
+            "follow",
+            "follows",
+            "following",
+            "followed"
+          ],
+          "explanation": "Câu giả định sau \"it is essential that\" dùng động từ nguyên mẫu."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The report contains ___ information than we expected.",
+          "choices": [
+            "more",
+            "most",
+            "much",
+            "many"
+          ],
+          "explanation": "So sánh hơn với danh từ không đếm được \"information\" dùng \"more\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The company's profits have grown steadily ___ the past five years.",
+          "choices": [
+            "over",
+            "since",
+            "at",
+            "by"
+          ],
+          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
+        }
+      ]
+    }
+  ]
 }
