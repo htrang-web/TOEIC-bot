@@ -1,209 +1,85 @@
 {
   "telegram_offset": 278326742,
-  "current_day": "2026-09-10",
-  "vocab_cursor": 8,
+  "current_day": "2026-09-11",
+  "vocab_cursor": 18,
   "today": {
     "vocab_words": [
       {
-        "index": 60,
-        "word": "bankruptcy",
-        "meaning": "phá sản",
-        "example": "The company went from near bankruptcy to a high level of profitability"
+        "index": 8,
+        "word": "consensus",
+        "meaning": "sự đồng thuận",
+        "example": "The team reached a consensus on the new schedule."
       },
       {
-        "index": 61,
-        "word": "bulky",
-        "meaning": "cồng kềnh, đồ sộ",
-        "example": "Bulky items are not allowed"
+        "index": 9,
+        "word": "minutes",
+        "meaning": "biên bản cuộc họp",
+        "example": "Could you take the minutes of today's meeting?"
       },
       {
-        "index": 0,
-        "word": "agenda",
-        "meaning": "chương trình nghị sự",
-        "example": "Please review the agenda before tomorrow's meeting."
+        "index": 10,
+        "word": "brief",
+        "meaning": "thông báo/tóm tắt ngắn gọn",
+        "example": "The manager will brief the staff at 9 a.m."
       },
       {
-        "index": 1,
-        "word": "correspondence",
-        "meaning": "thư từ, thư tín",
-        "example": "All correspondence with clients must be archived."
+        "index": 11,
+        "word": "facilitate",
+        "meaning": "điều phối, tạo điều kiện thuận lợi",
+        "example": "She was asked to facilitate the discussion."
       },
       {
-        "index": 2,
-        "word": "memorandum",
-        "meaning": "bản ghi nhớ nội bộ",
-        "example": "The manager sent a memorandum about the new dress code."
+        "index": 12,
+        "word": "clause",
+        "meaning": "điều khoản (hợp đồng)",
+        "example": "This clause outlines the termination conditions."
       },
       {
-        "index": 3,
-        "word": "stationery",
-        "meaning": "văn phòng phẩm",
-        "example": "We need to order more stationery for the office."
+        "index": 13,
+        "word": "liability",
+        "meaning": "trách nhiệm pháp lý",
+        "example": "The company denied any liability for the damage."
       },
       {
-        "index": 4,
-        "word": "filing",
-        "meaning": "việc lưu trữ hồ sơ",
-        "example": "The filing system was reorganized last month."
+        "index": 14,
+        "word": "breach",
+        "meaning": "sự vi phạm (hợp đồng, quy định)",
+        "example": "Late delivery is considered a breach of contract."
       },
       {
-        "index": 5,
-        "word": "itinerary",
-        "meaning": "lịch trình (chuyến đi)",
-        "example": "Her itinerary includes three cities in five days."
+        "index": 15,
+        "word": "amend",
+        "meaning": "sửa đổi, tu chỉnh",
+        "example": "We need to amend the agreement before signing."
       },
       {
-        "index": 6,
-        "word": "postpone",
-        "meaning": "hoãn lại",
-        "example": "The board decided to postpone the annual meeting."
+        "index": 16,
+        "word": "binding",
+        "meaning": "có tính ràng buộc",
+        "example": "This agreement is legally binding on both parties."
       },
       {
-        "index": 7,
-        "word": "attendee",
-        "meaning": "người tham dự",
-        "example": "Each attendee received a printed handout."
+        "index": 17,
+        "word": "waiver",
+        "meaning": "sự miễn trừ (quyền lợi/nghĩa vụ)",
+        "example": "He signed a waiver before joining the tour."
       }
     ],
-    "vocab_slots_sent": [
-      8,
-      10,
-      12,
-      14,
-      16
-    ],
-    "grammar_send_time": "10:45",
-    "grammar_sent": true,
+    "vocab_slots_sent": [],
+    "grammar_send_time": "08:30",
+    "grammar_sent": false,
     "grammar_quiz_indices": [
-      42,
-      1,
-      43,
-      31,
-      36,
-      30,
-      35,
-      21,
-      14,
-      48
+      23,
+      20,
+      53,
+      4,
+      2,
+      50,
+      41,
+      3,
+      22,
+      14
     ]
   },
-  "pending_quizzes": [
-    {
-      "type": "grammar",
-      "created_at": "2026-09-10T12:15:08.112223+07:00",
-      "count": 10,
-      "items": [
-        {
-          "correct_letter": "A",
-          "question": "This is one of the ___ effective marketing strategies we have used.",
-          "choices": [
-            "most",
-            "more",
-            "much",
-            "very"
-          ],
-          "explanation": "Cấu trúc so sánh nhất \"one of the most + adj\"."
-        },
-        {
-          "correct_letter": "B",
-          "question": "Ms. Tran has worked at this company ___ 2019.",
-          "choices": [
-            "for",
-            "since",
-            "during",
-            "while"
-          ],
-          "explanation": "\"Since + mốc thời gian\" (2019) diễn tả hành động bắt đầu từ thời điểm đó tới nay."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The staff were given clear instructions ___ how to use the new system.",
-          "choices": [
-            "on",
-            "of",
-            "for",
-            "to"
-          ],
-          "explanation": "Cụm cố định \"instructions on how to...\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The document must be reviewed carefully ___ submitting it.",
-          "choices": [
-            "before",
-            "despite",
-            "unless",
-            "because"
-          ],
-          "explanation": "Ngữ cảnh cần trước khi nộp thì phải xem lại tài liệu, dùng \"before\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's revenue ___ substantially since the merger.",
-          "choices": [
-            "has increased",
-            "increases",
-            "increasing",
-            "increase"
-          ],
-          "explanation": "\"Since + mốc thời gian\" đi cùng thì hiện tại hoàn thành."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The technician repaired the machine ___ than expected.",
-          "choices": [
-            "faster",
-            "fast",
-            "fastest",
-            "more fast"
-          ],
-          "explanation": "So sánh hơn của tính từ ngắn \"fast\" là \"faster\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Customers can track their orders ___ our new mobile application.",
-          "choices": [
-            "through",
-            "for",
-            "of",
-            "at"
-          ],
-          "explanation": "\"Through\" nghĩa là thông qua, bằng phương tiện gì."
-        },
-        {
-          "correct_letter": "A",
-          "question": "The company's profits have grown steadily ___ the past five years.",
-          "choices": [
-            "over",
-            "since",
-            "at",
-            "by"
-          ],
-          "explanation": "\"Over the past + khoảng thời gian\" diễn tả một quá trình kéo dài."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Employees who arrive late ___ notify their supervisor immediately.",
-          "choices": [
-            "should",
-            "should to",
-            "are should",
-            "shoulding"
-          ],
-          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
-        },
-        {
-          "correct_letter": "A",
-          "question": "Please make sure the report is ___ accurate before submission.",
-          "choices": [
-            "completely",
-            "complete",
-            "completion",
-            "completing"
-          ],
-          "explanation": "Cần trạng từ để bổ nghĩa cho tính từ \"accurate\"."
-        }
-      ]
-    }
-  ]
+  "pending_quizzes": []
 }
