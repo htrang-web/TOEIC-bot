@@ -65,9 +65,12 @@
         "example": "He signed a waiver before joining the tour."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8,
+      10
+    ],
     "grammar_send_time": "08:30",
-    "grammar_sent": false,
+    "grammar_sent": true,
     "grammar_quiz_indices": [
       23,
       20,
@@ -81,5 +84,123 @@
       14
     ]
   },
-  "pending_quizzes": []
+  "pending_quizzes": [
+    {
+      "type": "grammar",
+      "created_at": "2026-09-11T11:33:16.006567+07:00",
+      "count": 10,
+      "items": [
+        {
+          "correct_letter": "A",
+          "question": "The manager praised the team for their ___ to the project.",
+          "choices": [
+            "dedication",
+            "dedicate",
+            "dedicated",
+            "dedicating"
+          ],
+          "explanation": "Cần danh từ sau tính từ sở hữu \"their\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "By the time the CEO arrives, the presentation ___ already finished.",
+          "choices": [
+            "will have",
+            "will be",
+            "has",
+            "had"
+          ],
+          "explanation": "Thì tương lai hoàn thành \"will have + V3\" diễn tả hành động hoàn tất trước một mốc trong tương lai."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The client was pleased ___ the quality of the final product.",
+          "choices": [
+            "with",
+            "for",
+            "to",
+            "about"
+          ],
+          "explanation": "Cụm cố định \"be pleased with something\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "If the shipment ___ on time, we will lose the client.",
+          "choices": [
+            "doesn't arrive",
+            "won't arrive",
+            "isn't arriving",
+            "hasn't arrived"
+          ],
+          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, mệnh đề chính dùng will."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees are required to submit their timesheets ___ Friday afternoon.",
+          "choices": [
+            "by",
+            "until",
+            "since",
+            "from"
+          ],
+          "explanation": "\"By\" mang nghĩa hạn chót (deadline) — phải nộp trước hoặc đúng thời điểm đó."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The manager will be ___ for approving all expense reports.",
+          "choices": [
+            "responsible",
+            "responsibly",
+            "responsibility",
+            "respond"
+          ],
+          "explanation": "Cụm cố định \"be responsible for\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The product needs to be tested thoroughly ___ it is released.",
+          "choices": [
+            "before",
+            "despite",
+            "during",
+            "for"
+          ],
+          "explanation": "Ngữ cảnh cần kiểm tra trước khi phát hành, dùng liên từ \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "The new policy will take effect ___ the beginning of next month.",
+          "choices": [
+            "at",
+            "on",
+            "in",
+            "to"
+          ],
+          "explanation": "Cụm cố định \"at the beginning of\" dùng giới từ \"at\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "All visitors must sign in ___ entering the building.",
+          "choices": [
+            "before",
+            "after",
+            "during",
+            "while"
+          ],
+          "explanation": "Ngữ nghĩa yêu cầu ký tên trước khi vào tòa nhà nên dùng \"before\"."
+        },
+        {
+          "correct_letter": "A",
+          "question": "Employees who arrive late ___ notify their supervisor immediately.",
+          "choices": [
+            "should",
+            "should to",
+            "are should",
+            "shoulding"
+          ],
+          "explanation": "Động từ khiếm khuyết \"should\" đi với động từ nguyên mẫu không \"to\"."
+        }
+      ]
+    }
+  ]
 }
