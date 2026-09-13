@@ -65,7 +65,9 @@
         "example": "The onboarding process takes about one week."
       }
     ],
-    "vocab_slots_sent": [],
+    "vocab_slots_sent": [
+      8
+    ],
     "grammar_send_time": "21:45",
     "grammar_sent": false,
     "grammar_quiz_indices": [
